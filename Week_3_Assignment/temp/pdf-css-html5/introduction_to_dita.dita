@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\DITA Workshop\Week_3_Assignment\temp\pdf-css-html5?><?workdir-uri file:/C:/DITA%20Workshop/Week_3_Assignment/temp/pdf-css-html5/?><?path2project pdf-css-html5\?><?path2project-uri pdf-css-html5/?><?path2rootmap-uri Week_3_Assignment/?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="introduction_to_dita" ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" class="- topic/topic concept/concept " xtrf="file:/C:/DITA%20Workshop/introduction_to_dita.dita" xtrc="concept:1;3:36" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/DITA%20Workshop/introduction_to_dita.dita" xtrc="title:1;4:12">Introduction to <ph keyref="name" class="- topic/ph " xtrf="file:/C:/DITA%20Workshop/introduction_to_dita.dita" xtrc="ph:1;4:47">DITA</ph></title>
+    <prolog class="- topic/prolog " xtrf="file:/C:/DITA%20Workshop/introduction_to_dita.dita" xtrc="prolog:1;5:13">
+        <author type="creator" class="- topic/author " xtrf="file:/C:/DITA%20Workshop/introduction_to_dita.dita" xtrc="author:1;6:32">aashi</author>
+        <critdates class="- topic/critdates " xtrf="file:/C:/DITA%20Workshop/introduction_to_dita.dita" xtrc="critdates:1;7:20">
+            <created date="2024-03-28" class="- topic/created " xtrf="file:/C:/DITA%20Workshop/introduction_to_dita.dita" xtrc="created:1;8:41"/>
+            
+            <revised modified="2024-03-29" class="- topic/revised " xtrf="file:/C:/DITA%20Workshop/introduction_to_dita.dita" xtrc="revised:1;10:45"/>
+        </critdates>
+    </prolog>
+    <conbody class="- topic/body  concept/conbody " xtrf="file:/C:/DITA%20Workshop/introduction_to_dita.dita" xtrc="conbody:1;13:14">
+        <section id="section_gcr_ylz_w1c" class="- topic/section " xtrf="file:/C:/DITA%20Workshop/introduction_to_dita.dita" xtrc="section:1;14:43">
+            <p class="- topic/p " xtrf="file:/C:/DITA%20Workshop/introduction_to_dita.dita" xtrc="p:1;15:16">The Darwin Information Typing Architecture (<ph keyref="name" class="- topic/ph " xtrf="file:/C:/DITA%20Workshop/introduction_to_dita.dita" xtrc="ph:2;15:79">DITA</ph>) is an XML-based
+                architecture for authoring, producing, and delivering topic-oriented,
+                information-typed content that can be reused and single-sourced in a variety of
+                ways. While <ph keyref="name" class="- topic/ph " xtrf="file:/C:/DITA%20Workshop/introduction_to_dita.dita" xtrc="ph:3;18:47">DITA</ph> historically has been driven by the
+                requirements of large-scale technical documentation authoring, management, and
+                delivery, it is a standard that is applicable to any kind of publication or
+                information that might be presented to readers, including interactive training and
+                educational materials, standards, reports, business documents, trade books, travel
+                and nature guides, and more.</p>
+            <p class="- topic/p " xtrf="file:/C:/DITA%20Workshop/introduction_to_dita.dita" xtrc="p:2;24:16"><ph keyref="name" class="- topic/ph " xtrf="file:/C:/DITA%20Workshop/introduction_to_dita.dita" xtrc="ph:4;24:34">DITA</ph> is designed for creating new document types and
+                describing new information domains based on existing types and domains. The process
+                for creating new types and domains is called specialization. Specialization enables
+                the creation of specific, targeted XML grammars that can still use tools and design
+                rules that were developed for more general types and domains; this is similar to how
+                classes in an object-oriented system can inherit the methods of ancestor
+                classes.</p>
+            <p class="- topic/p " xtrf="file:/C:/DITA%20Workshop/introduction_to_dita.dita" xtrc="p:3;31:16">Because <ph keyref="name" class="- topic/ph " xtrf="file:/C:/DITA%20Workshop/introduction_to_dita.dita" xtrc="ph:5;31:42">DITA</ph> topics are conforming XML documents, they can be
+                readily viewed, edited, and validated using standard XML tools, although realizing
+                the full potential of <ph keyref="name" class="- topic/ph " xtrf="file:/C:/DITA%20Workshop/introduction_to_dita.dita" xtrc="ph:6;33:57">DITA</ph> requires using <ph keyref="name" class="- topic/ph " xtrf="file:/C:/DITA%20Workshop/introduction_to_dita.dita" xtrc="ph:7;34:22">DITA</ph>-aware tools.</p>
+        </section>
+    </conbody>
+</concept>

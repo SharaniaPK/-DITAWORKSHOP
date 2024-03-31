@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_sch_4fy_r1c">
+    <title>Change or reset your password</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>You can change your password for security reasons or reset it if you forget it. Your
+            Google Account password is used to access many Google products, such as Gmail and
+            YouTube.</p>
+        <codeblock id="codeblock_qsr_cgy_r1c"><?oxy_insert_start author="aashi" timestamp="20240311T131110+0530" type="surround"?><b><?oxy_insert_end?>Want to get more out of Google apps at work or school?</b>  Sign up for a Google Workspace trial at no charge.</codeblock>
+    </conbody>
+</concept>
+<?oxy_options track_changes="on"?>

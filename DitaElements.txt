@@ -1,0 +1,17 @@
+1.Elements
+Topic elements
+Map elements
+Body elements
+Prolog elements
+Domain elements
+       1.Typogrraphical elements:Generic word-processor like elements used to highlight text
+       2.Programming elements:Terms and structures related to programming environments
+       3.Software Elements:Terms and structures related to the operation of a software program
+       4.Table Elements:Elements that relate to table structures
+       5.User Interface Elements:terms and structures related to a software user interface
+       6.Utilities:Elements that don't fit anywhere else has context menu
+Specialisation elements
+
+
+2.Image maps
+  Interactive image- click to perform action

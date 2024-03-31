@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="utilities_domain_elements">
+    <title>Utilities domain elements</title>
+    <prolog>
+        <author type="creator">aashi</author>
+        <critdates>
+            <created date="2024-03-29"/>
+            <!--aashi-->
+            <revised modified="2024-03-29"/>
+            <!--aashi-->
+            <revised modified="2024-03-30"/>
+        </critdates>
+    </prolog>
+    <refbody>
+        <section id="section_hqy_vtc_x1c">
+            <p>The elements in the utilities domain each have a specific purpose in defining image
+                map properties.</p>
+            <p>Note: Use &lt;dl> to describe each of the following element and provide an
+                example.</p>
+        </section>
+        <section id="section_onc_hz2_x1c">
+            <table id="table_lp5_rvc_x1c">
+                <tgroup cols="2">
+                    <colspec colname="c1" colnum="1"/>
+                    <colspec colname="c2" colnum="2"/>
+                    <thead>
+                        <row>
+                            <entry>Element Name</entry>
+                            <entry>Semantic Purpose</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>imagemap</entry>
+                            <entry>client-side image map</entry>
+                        </row>
+                        <row>
+                            <entry>area</entry>
+                            <entry>hotspot area within an image map</entry>
+                        </row>
+                        <row>
+                            <entry>coords</entry>
+                            <entry>co-ordinates of a hotspot area within an image map</entry>
+                        </row>
+                        <row>
+                            <entry>shape</entry>
+                            <entry>shape of a hotspot area within an image map</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+    </refbody>
+</reference>

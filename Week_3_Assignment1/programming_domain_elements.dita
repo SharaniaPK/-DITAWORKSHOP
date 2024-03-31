@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="programming_domain_elements">
+    <title>Programming domain elements</title>
+    <prolog>
+        <author type="creator">aashi</author>
+        <critdates>
+            <created date="2024-03-29"/>
+            <!--aashi-->
+            <revised modified="2024-03-29"/>
+            <!--aashi-->
+            <revised modified="2024-03-30"/>
+            <!--aashi-->
+            <revised modified="2024-03-31"/>
+        </critdates>
+    </prolog>
+    <refbody>
+        <section id="section_hsp_vzz_w1c">
+            <p>The elements in the programming domain each have a specific semantic purpose.</p>
+        </section>
+        <section id="section_pqc_yy2_x1c">
+            <dl id="dl_fs4_pqm_x1c">
+                <dlentry>
+                    <dt>apiname</dt>
+                    <dd>API name<p><apiname/></p></dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_l24_3tn_x1c">
+                <dlentry>
+                    <dt>codeblock</dt>
+                    <dd>code
+                            block<p>Example:<codeblock id="codeblock_mk4_gtn_x1c">dir [&lt;drive>:][&lt;path>][&lt;filename>] [...] [/p] [/q] [/w] [/d] [/a[[:]&lt;attributes>]][/o[[:]&lt;sortorder>]] [/t[[:]&lt;timefield>]] [/s] [/b] [/l] [/n] [/x] [/c] [/4] [/r]</codeblock></p></dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_nh4_gtn_x1c">
+                <dlentry>
+                    <dt>codeph</dt>
+                    <dd>code phrase<p>Example:<codeph>&lt;sortorder>]</codeph></p></dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_q24_cyn_x1c">
+                <dlentry>
+                    <dt>option</dt>
+                    <dd>one of a set of options<p>Example:<option/></p></dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_odr_3yn_x1c">
+                <dlentry>
+                    <dt>parmname</dt>
+                    <dd>parameter or argument<p> Example:<parmname/></p></dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_ek1_lyn_x1c">
+                <dlentry>
+                    <dt>parml</dt>
+                    <dd>parameter list<p>Example:<parml id="parml_ykp_zh4_x1c">
+                                <plentry>
+                                    <pt/>
+                                    <pd/>
+                                </plentry>
+                            </parml></p></dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_nfx_xh4_x1c">
+                <dlentry>
+                    <dt>plentry</dt>
+                    <dd>parameter list entry(within parml)<p>Example:<parml id="parml_udb_1q4_x1c">
+                                <plentry>
+                                    <pt/>
+                                    <pd/>
+                                </plentry>
+                            </parml></p></dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_imk_l34_x1c">
+                <dlentry>
+                    <dt>pt</dt>
+                    <dd>parameter term(within plentry)<p>Example:</p></dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_qt5_n34_x1c">
+                <dlentry>
+                    <dt>pd</dt>
+                    <dd>parameter definition(within plentry)<p>Example:</p></dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_c3h_q34_x1c">
+                <dlentry>
+                    <dt>synph</dt>
+                    <dd>syntax phrase<p>Example:<synph/></p></dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_gsp_t34_x1c">
+                <dlentry>
+                    <dt>syntaxdiagram</dt>
+                    <dd>syntax diagram<p>Example:<syntaxdiagram id="syntaxdiagram_qzt_w34_x1c"
+                        /></p></dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_ufr_v34_x1c">
+                <dlentry>
+                    <dt>groupseq</dt>
+                    <dd>group of syntactic units (used only for syntax
+                                diagram)<p>Example:<syntaxdiagram id="syntaxdiagram_hnh_2q4_x1c">
+                                <groupseq/>
+                            </syntaxdiagram></p></dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_lrk_x34_x1c">
+                <dlentry>
+                    <dt>groupchoice</dt>
+                    <dd>choice of a group of syntactic units (used only for syntax
+                                diagrams)<p>Example:<syntaxdiagram id="syntaxdiagram_lgc_fq4_x1c">
+                                <groupchoice/>
+                            </syntaxdiagram></p></dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_ahq_bj4_x1c">
+                <dlentry>
+                    <dt>groupcomp</dt>
+                    <dd>group of composite syntactic units (used only for syntax
+                                diagrams)<p>Example:<syntaxdiagram id="syntaxdiagram_fxw_fq4_x1c">
+                                <groupcomp/>
+                            </syntaxdiagram></p></dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_dnd_fj4_x1c">
+                <dlentry>
+                    <dt>fragment</dt>
+                    <dd>fragment of syntax (used only for syntax diagrams<p>Example:<syntaxdiagram
+                                id="syntaxdiagram_d3t_gq4_x1c">
+                                <fragment/>
+                            </syntaxdiagram></p></dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_im1_3j4_x1c">
+                <dlentry>
+                    <dt>fragref</dt>
+                    <dd>cross-reference to a fragment of syntax<p>Example:<syntaxdiagram
+                                id="syntaxdiagram_ds3_hq4_x1c">
+                                <fragref/>
+                            </syntaxdiagram></p></dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_azc_kj4_x1c">
+                <dlentry>
+                    <dt>synblk</dt>
+                    <dd>block of small pieces of syntax<p>Example:<syntaxdiagram
+                                id="syntaxdiagram_ljd_3q4_x1c">
+                                <synblk/>
+                            </syntaxdiagram></p></dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_lxl_mj4_x1c">
+                <dlentry>
+                    <dt>synnote</dt>
+                    <dd>footnote within syntax (syntax note)<p>Example:<syntaxdiagram
+                                id="syntaxdiagram_at1_jq4_x1c">
+                                <synnote/>
+                            </syntaxdiagram></p></dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_hmr_rj4_x1c">
+                <dlentry>
+                    <dt>synnoteref</dt>
+                    <dd>cross-reference to a syntax note<p>Example:<syntaxdiagram
+                                id="syntaxdiagram_klz_jq4_x1c">
+                                <synnoteref/>
+                            </syntaxdiagram></p></dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_t32_tj4_x1c">
+                <dlentry>
+                    <dt>kwd</dt>
+                    <dd>syntax keyword (used only for syntax
+                                diagrams)<p>Example:<synph><kwd/></synph></p></dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_pf5_5j4_x1c">
+                <dlentry>
+                    <dt>var</dt>
+                    <dd>variable that a user must supply (used only for syntax
+                                diagrams)<p>Example:<synph><var/></synph></p></dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_sqp_wj4_x1c">
+                <dlentry>
+                    <dt>oper</dt>
+                    <dd>operator character (such as <ph>+</ph>, <ph>-</ph>, and <ph>=</ph>) within
+                                syntax<p>Example:<synph><oper/></synph></p></dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_uzq_yj4_x1c">
+                <dlentry>
+                    <dt>delim</dt>
+                    <dd>delimiter character (such as<ph> /</ph>, <ph>|</ph>, and <ph>;</ph>) within
+                                syntax<p>Example:<synph><delim/></synph></p></dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_m5c_1k4_x1c">
+                <dlentry>
+                    <dt>sep</dt>
+                    <dd>separator character within syntax<p>Example:<synph><sep/></synph></p></dd>
+                </dlentry>
+            </dl>
+            <dl id="dl_xpt_bk4_x1c">
+                <dlentry>
+                    <dt>repsep</dt>
+                    <dd>separator character for repeated syntax elements<p>Example:<syntaxdiagram
+                                id="syntaxdiagram_kn3_4q4_x1c">
+                                <groupchoice>
+                                    <repsep/>
+                                </groupchoice>
+                            </syntaxdiagram></p></dd>
+                </dlentry>
+            </dl>
+        </section>
+    </refbody>
+</reference>

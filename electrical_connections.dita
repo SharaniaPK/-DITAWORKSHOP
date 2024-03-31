@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="electrical_connections">
+    <title>Electrical Connections</title>
+    <taskbody>
+        <context>
+            <p>Perform the following instructions to setup the electrical connections for peripheral
+                devices attaching to the <ph
+                    conref="Variables.dita#reference_qrj_gyk_w1c/computer_name"/>  computer. For
+                more information see <xref href="introduction_0.dita"/>.</p>
+            <note conref="Variables.dita#reference_qrj_gyk_w1c/download_link" id="note_kp2_33l_w1c"/>
+        </context>
+        <steps>
+            <step>
+                <cmd>Turn the <ph keyref="computer_name">TRS-80</ph> so that it faces away from you.
+                    Locate the port Door (<ph><ph conref="parts_list.dita#parts_list/ph_exz_gll_w1c"
+                        /></ph> ); it's at the right end of the rear panel</cmd>
+            </step>
+            <step>
+                <cmd>To remove the Door, raise it up and slide it to the right—then lift it up and
+                    away from the <ph keyref="computer_name">TRS-80</ph>. </cmd>
+            </step>
+            <step>
+                <cmd>Place the <ph keyref="computer_name">TRS-80</ph>and <ph
+                        keyref="peripheral_name">Expansion Interface</ph>Hoods (<ph><ph
+                            conref="parts_list.dita#parts_list/ph_y1g_3ll_w1c"/></ph> and <ph><ph
+                            conref="parts_list.dita#parts_list/ph_u53_2ll_w1c"/>
+                    </ph>) on the Ribbon Cable Connectors as shown in Figure 4. The Hoods replace
+                    the Door on the and fill <ph keyref="computer_name">TRS-80</ph>the opening on
+                    the <ph keyref="peripheral_name">Expansion Interface</ph>. These Hoods are
+                    designed so that it's impossible to insert the connectors upside down. They
+                    function as keyways for the connectors.</cmd>
+            </step>
+            <step>
+                <cmd>Now connect the Ribbon Cable between the left front <ph
+                        keyref="peripheral_name">Expansion Interface</ph> port and the <ph
+                        keyref="computer_name">TRS-80</ph> port.</cmd>
+            </step>
+            <step>
+                <cmd><ph keyref="computer_name">TRS-80</ph>Connect the DC Power Cord (DIN connector)
+                    to the POWER connector on the right rear of the and connect both AC Power Cords
+                    to standard <ph>120</ph> VAC outlets</cmd>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links/>
+</task>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="test_concept">
+    <title>Test Concept</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <author>Sharania</author>
+        <author type="contributor">aashi</author>
+        <critdates>
+            <created date="2024-03-23"/>
+            <revised modified="2024-03-24"/>
+            <!--aashi-->
+            <revised modified="2024-03-28"/>
+        </critdates>
+        <change-historylist>
+            <change-item>
+                <change-completed>Initial version</change-completed>
+            </change-item>
+            <change-item>
+                <change-completed>Added a paragraph</change-completed>
+            </change-item>
+        </change-historylist>
+    </prolog>
+    <conbody>
+        <p>changes</p>
+        <section id="section_p5z_txv_w1c">
+            <title/>
+            <p/>
+        </section>
+        <example id="example_s1r_5xv_w1c"/>
+    </conbody>
+    <related-links/>
+</concept>

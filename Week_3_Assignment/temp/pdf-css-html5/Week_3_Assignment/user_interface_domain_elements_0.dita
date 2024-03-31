@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\DITA Workshop\Week_3_Assignment\temp\pdf-css-html5\Week_3_Assignment?><?workdir-uri file:/C:/DITA%20Workshop/Week_3_Assignment/temp/pdf-css-html5/Week_3_Assignment/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Reference//EN?><?doctype-system reference.dtd?><reference xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="user_interface_domain_elements_0" specializations="@props/deliveryTarget" xtrc="reference:1;3:50" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">User Interface domain elements</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita"/>
+    <prolog class="- topic/prolog " xtrc="prolog:1;6:13" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">
+        <author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">aashi</author><author class="- topic/author " type="creator" xtrc="author:1;7:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">aashi</author>
+        <critdates class="- topic/critdates " xtrc="critdates:1;7:20" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">
+            <created class="- topic/created " date="2024-03-28" xtrc="created:1;8:41" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29" xtrc="revised:1;10:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30" xtrc="revised:2;12:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+        </critdates>
+    </prolog>
+    <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;14:14" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">
+        <section class="- topic/section " id="section_zfp_zzz_w1c" xtrc="section:1;15:43" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">
+            <p class="- topic/p " xtrc="p:1;16:16" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">The elements in the user interface domain each have a specific semantic purpose.</p>
+            <p class="- topic/p " xtrc="p:2;17:16" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">Note: Use <ph class="- topic/ph " xtrc="ph:1;17:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">&lt;</ph>dl<ph class="- topic/ph " xtrc="ph:2;17:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">&gt;</ph> to describe each of the following element and
+                provide an example.</p>
+        </section>
+        <section class="- topic/section " id="section_xtt_dz2_x1c" xtrc="section:2;20:43" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">
+            <table class="- topic/table " id="table_nfv_jsc_x1c" xtrc="table:1;21:43" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">
+                <tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:1;22:34" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" xtrc="colspec:1;23:55" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" xtrc="colspec:2;24:55" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:1;25:28" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">
+                        <row class="- topic/row " xtrc="row:1;26:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:1;27:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">Element Name</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:2;28:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">Semantic Purpose</entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:1;31:28" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">
+                        <row class="- topic/row " xtrc="row:2;32:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:3;33:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">uicontrol</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:4;34:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">user interface control</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:3;36:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:5;37:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">wintitle</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:6;38:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">window title</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:4;40:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:7;41:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">menucascade</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:8;42:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">menu cascade</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:5;44:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:9;45:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">shortcut</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:10;46:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">shortcut</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:6;48:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6" xtrc="entry:11;49:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">screen</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6" xtrc="entry:12;50:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">character (text only) screen</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+    </refbody>
+</reference>

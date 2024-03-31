@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="utilities_domain_elements">
+    <title>Utilities domain elements</title>
+    <prolog>
+        <author type="creator">aashi</author>
+        <critdates>
+            <created date="2024-03-29"/>
+            <!--aashi-->
+            <revised modified="2024-03-29"/>
+            <!--aashi-->
+            <revised modified="2024-03-30"/>
+            <!--aashi-->
+            <revised modified="2024-03-31"/>
+        </critdates>
+    </prolog>
+    <refbody>
+        <section id="section_hqy_vtc_x1c">
+            <p>The elements in the utilities domain each have a specific purpose in defining image
+                map properties.</p>
+        </section>
+        <section id="section_onc_hz2_x1c">
+            <dl id="dl_vyh_sfn_x1c">
+                <dlentry>
+                    <dt>imagemap</dt>
+                    <dd>client-side image map<p>
+                            <imagemap id="imagemap_gwr_w44_x1c">
+                                <image id="image_hwr_w44_x1c"
+                                    href="../../DITA%20Workshop/ImageMap1.jpg"/>
+                                <area>
+                                    <shape/>
+                                    <coords/>
+                                    <xref/>
+                                </area>
+                            </imagemap>
+                        </p></dd>
+                </dlentry>
+                <dlentry>
+                    <dt>area</dt>
+                    <dd>hotspot area within an image map</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>coords</dt>
+                    <dd>co-ordinates of a hotspot area within an image map</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>shape</dt>
+                    <dd>shape pf a hotspot area within an image map</dd>
+                </dlentry>
+            </dl>
+        </section>
+    </refbody>
+</reference>

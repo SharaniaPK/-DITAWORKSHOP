@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="programming_domain_elements">
+    <title>Programming domain elements</title>
+    <prolog>
+        <author type="creator">aashi</author>
+        <critdates>
+            <created date="2024-03-29"/>
+            <!--aashi-->
+            <revised modified="2024-03-29"/>
+        </critdates>
+    </prolog>
+    <refbody>
+        <section id="section_hsp_vzz_w1c">
+            <p>The elements in the programming domain each have a specific semantic purpose.</p>
+            <p>Note: Use <ph>&lt;</ph>dl<ph>></ph> to describe each of the following element and
+                provide an example.</p>
+        </section>
+        <section id="section_pqc_yy2_x1c">
+            <table id="table_ub2_qb1_x1c">
+                <tgroup cols="2">
+                    <colspec colname="c1" colnum="1" colwidth="1*"/>
+                    <colspec colname="c2" colnum="2" colwidth="1.49*"/>
+                    <thead>
+                        <row>
+                            <entry>Element Name</entry>
+                            <entry>Semantic Purpose</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>apiname</entry>
+                            <entry>API name</entry>
+                        </row>
+                        <row>
+                            <entry>codeblock</entry>
+                            <entry>code block</entry>
+                        </row>
+                        <row>
+                            <entry>codeph</entry>
+                            <entry>code phrase</entry>
+                        </row>
+                        <row>
+                            <entry>option</entry>
+                            <entry>one of a set of options</entry>
+                        </row>
+                        <row>
+                            <entry>parmname</entry>
+                            <entry>parameter or argument</entry>
+                        </row>
+                        <row>
+                            <entry>parml</entry>
+                            <entry>parameter list</entry>
+                        </row>
+                        <row>
+                            <entry>plentry</entry>
+                            <entry>parameter list entry (within parml)</entry>
+                        </row>
+                        <row>
+                            <entry>pt</entry>
+                            <entry>parameter term (within plentry)</entry>
+                        </row>
+                        <row>
+                            <entry>pd</entry>
+                            <entry>parameter definition (within plentry) </entry>
+                        </row>
+                        <row>
+                            <entry>synph</entry>
+                            <entry>syntax phrase</entry>
+                        </row>
+                        <row>
+                            <entry>syntaxdiagram</entry>
+                            <entry>syntax diagram</entry>
+                        </row>
+                        <row>
+                            <entry>groupseq</entry>
+                            <entry>group of syntactic units (used only for syntax diagram)</entry>
+                        </row>
+                        <row>
+                            <entry>groupchoice</entry>
+                            <entry>choice of a group of syntactic units (used only for syntax
+                                diagrams)</entry>
+                        </row>
+                        <row>
+                            <entry>groupcomp</entry>
+                            <entry>group of composite syntactic units (used only for syntax
+                                diagrams)</entry>
+                        </row>
+                        <row>
+                            <entry>fragment</entry>
+                            <entry>fragment of syntax (used only for syntax diagrams</entry>
+                        </row>
+                        <row>
+                            <entry>fragref</entry>
+                            <entry>cross-reference to a fragment of syntax</entry>
+                        </row>
+                        <row>
+                            <entry>synblk</entry>
+                            <entry>block of small pieces of syntax</entry>
+                        </row>
+                        <row>
+                            <entry>synnote</entry>
+                            <entry>footnote within syntax (syntax note)</entry>
+                        </row>
+                        <row>
+                            <entry>synnoteref</entry>
+                            <entry>cross-reference to a syntax note</entry>
+                        </row>
+                        <row>
+                            <entry>kwd</entry>
+                            <entry>syntax keyword (used only for syntax diagrams)</entry>
+                        </row>
+                        <row>
+                            <entry>var</entry>
+                            <entry>variable that a user must supply (used only for syntax
+                                diagrams)</entry>
+                        </row>
+                        <row>
+                            <entry>oper</entry>
+                            <entry>operator character (such as <ph>+</ph>, <ph>-</ph>, and
+                                    <ph>=</ph>) within syntax</entry>
+                        </row>
+                        <row>
+                            <entry>delim</entry>
+                            <entry>delimiter character (such as<ph> /</ph>, <ph>|</ph>, and
+                                    <ph>;</ph>) within syntax</entry>
+                        </row>
+                        <row>
+                            <entry>sep</entry>
+                            <entry>separator character within syntax</entry>
+                        </row>
+                        <row>
+                            <entry>resep</entry>
+                            <entry>separator character for repeated syntax elements</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+    </refbody>
+</reference>

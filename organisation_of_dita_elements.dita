@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="organisation_of_dita_elements">
+    <title>Organisation of <ph keyref="name"/> elements</title>
+    <prolog>
+        <author type="creator">aashi</author>
+        <critdates>
+            <created date="2024-03-28"/>
+            <!--aashi-->
+            <revised modified="2024-03-29"/>
+        </critdates>
+    </prolog>
+    <refbody>
+        <example>
+            <p>Elements in <ph keyref="name"/> are grouped together into a number of categories for
+                organizational and comprehension purposes.</p>
+            <p><ph keyref="name"/> elements can be broadly categorized as follows:</p>
+            <ul id="ul_x1n_44z_w1c">
+                <li>Topic elements</li>
+                <li>Map elements</li>
+                <li>Body elements</li>
+                <li>Prolog elements</li>
+                <li>Domain elements</li>
+            </ul>
+            <p>In fact, this is how the <ph keyref="name"/> Language Reference groups <ph
+                    keyref="name"/> elements. This categorization of the various elements is partly
+                to aid understanding, and partly to make it technically easier for the schema files
+                (DTD and XSD) to be managed.</p>
+            <p>Elements used within topics can also be differently categorized as block or phrase
+                elements.</p>
+        </example>
+    </refbody>
+</reference>

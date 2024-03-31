@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="introduction">
+    <title>Introduction</title>
+    <conbody>
+        <p>The<ph keyref="product1_name" product="PQR"/><ph keyref="product2_name" product="XYZ"
+            />application must be installed on  Windows.The current version of the application is<ph
+                keyref="product_version"/>.</p>
+        <note id="note_esc_c2q_51c">You can download the application using <xref
+                keyref="product1_download" format="html" scope="external"/></note>
+    </conbody>
+</concept>

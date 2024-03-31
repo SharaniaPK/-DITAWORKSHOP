@@ -1,1 +1,1 @@
-# -DITAWORKSHOP
+# ditaworkshop

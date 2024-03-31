@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title><ph keyref="name"/>_Syntax_Markup</title>
+    <topicmeta>
+        <author type="creator">aashi</author>
+        <critdates>
+            <created date="2024-03-28"/>
+            <!--aashi-->
+            <revised modified="2024-03-29"/>
+            <!--aashi-->
+            <revised modified="2024-03-30"/>
+            <!--aashi-->
+            <revised modified="2024-03-31"/>
+        </critdates>
+    </topicmeta>
+    <topicgroup>
+        <topicmeta>
+            <navtitle>Keys</navtitle>
+        </topicmeta>
+        <keydef keys="name">
+            <topicmeta>
+                <keywords>
+                    <keyword>DITA</keyword>
+                </keywords>
+            </topicmeta>
+        </keydef>
+    </topicgroup>
+    <topicref href="introduction_to_dita.dita"/>
+    <topicref href="organisation_of_dita_elements.dita" collection-type="choice">
+        <topicref href="topic_elements.dita"/>
+        <topicref href="map_elements.dita"/>
+        <topicref href="body_elements.dita"/>
+        <topicref href="prolog_elements.dita"/>
+        <topicref href="domain_elements.dita" collection-type="sequence">
+            <topicref href="programming_domain_elements.dita"/>
+            <topicref href="user_interface_domain_elements_0.dita"/>
+            <topicref href="software_domain_elements_0.dita"/>
+            <topicref href="utilities_domain_elements.dita" processing-role="resource-only" toc="no"/>
+            <topicref href="utilities_domain_elements.dita"/>
+        </topicref>
+    </topicref>
+    <!--<reltable type="reference"><title><ph keyref="name">DITA</ph> Elements Relationship Table</title><relheader><relcolspec type="concept"/><relcolspec type="reference"/><relcolspec type="reference"/><relcolspec type="concept"/><relcolspec type="reference"/><relcolspec type="reference"/><relcolspec type="reference"/></relheader><relrow><relcell><topicref href="introduction_to_dita.dita"/></relcell><relcell><topicref href="organisation_of_dita_elements.dita"/></relcell><relcell><topicref href="body_elements.dita"/></relcell><relcell><topicref href="domain_elements.dita"/></relcell><relcell><topicref href="programming_domain_elements.dita"/></relcell><relcell><topicref href="software_domain_elements_0.dita"/></relcell><relcell><topicref href="topic_elements.dita"/></relcell></relrow><relrow><relcell><topicref href="introduction_to_dita.dita"/></relcell><relcell><topicref href="topic_elements.dita"/></relcell><relcell><topicref href="map_elements.dita"/></relcell><relcell/><relcell><topicref href="prolog_elements.dita"/></relcell><relcell><topicref href="user_interface_domain_elements_0.dita"/></relcell><relcell><topicref href="utilities_domain_elements.dita"/></relcell></relrow><relrow><relcell><topicref href="introduction_to_dita.dita"/></relcell><relcell><topicref href="map_elements.dita"/></relcell><relcell><topicref href="body_elements.dita"/></relcell><relcell/><relcell><topicref href="programming_domain_elements.dita"/></relcell><relcell><topicref href="software_domain_elements_0.dita"/></relcell><relcell/></relrow><relrow><relcell><topicref href="introduction_to_dita.dita"/></relcell><relcell><topicref href="body_elements.dita"/></relcell><relcell><topicref href="prolog_elements.dita"/></relcell><relcell/><relcell><topicref href="user_interface_domain_elements_0.dita"/></relcell><relcell><topicref href="utilities_domain_elements.dita"/></relcell><relcell/></relrow><relrow><relcell><topicref href="introduction_to_dita.dita"/></relcell><relcell><topicref href="prolog_elements.dita"/></relcell><relcell><topicref href="software_domain_elements_0.dita"/></relcell><relcell/><relcell><topicref href="programming_domain_elements.dita"/></relcell><relcell/><relcell/></relrow><relrow><relcell><topicref href="introduction_to_dita.dita"/></relcell><relcell><topicref href="programming_domain_elements.dita"/></relcell><relcell><topicref href="user_interface_domain_elements_0.dita"/></relcell><relcell/><relcell><topicref href="utilities_domain_elements.dita"/></relcell><relcell/><relcell/></relrow><relrow><relcell><topicref href="introduction_to_dita.dita"/></relcell><relcell><topicref href="user_interface_domain_elements_0.dita"/></relcell><relcell/><relcell/><relcell/><relcell/><relcell/></relrow><relrow><relcell><topicref href="introduction_to_dita.dita"/></relcell><relcell><topicref href="software_domain_elements_0.dita"/></relcell><relcell><topicref href="user_interface_domain_elements_0.dita"/></relcell><relcell/><relcell><topicref href="utilities_domain_elements.dita"/></relcell><relcell/><relcell/></relrow><relrow><relcell><topicref href="introduction_to_dita.dita"/></relcell><relcell><topicref href="utilities_domain_elements.dita"/></relcell><relcell/><relcell/><relcell/><relcell/><relcell/></relrow><relrow><relcell><topicref href="domain_elements.dita"/></relcell><relcell><topicref href="organisation_of_dita_elements.dita"/></relcell><relcell><topicref href="prolog_elements.dita"/></relcell><relcell/><relcell><topicref href="user_interface_domain_elements_0.dita"/></relcell><relcell><topicref href="utilities_domain_elements.dita"/></relcell><relcell><topicref href="map_elements.dita"/></relcell></relrow><relrow><relcell><topicref href="domain_elements.dita"/></relcell><relcell><topicref href="topic_elements.dita"/></relcell><relcell/><relcell/><relcell/><relcell/><relcell/></relrow><relrow><relcell><topicref href="domain_elements.dita"/></relcell><relcell><topicref href="map_elements.dita"/></relcell><relcell/><relcell/><relcell/><relcell/><relcell/></relrow><relrow><relcell><topicref href="domain_elements.dita"/></relcell><relcell><topicref href="body_elements.dita"/></relcell><relcell/><relcell/><relcell/><relcell/><relcell/></relrow><relrow><relcell><topicref href="domain_elements.dita"/></relcell><relcell><topicref href="prolog_elements.dita"/></relcell><relcell/><relcell/><relcell/><relcell/><relcell/></relrow><relrow><relcell><topicref href="domain_elements.dita"/></relcell><relcell><topicref href="programming_domain_elements.dita"/></relcell><relcell/><relcell/><relcell/><relcell/><relcell/></relrow><relrow><relcell><topicref href="domain_elements.dita"/></relcell><relcell><topicref href="user_interface_domain_elements_0.dita"/></relcell><relcell/><relcell/><relcell/><relcell/><relcell/></relrow><relrow><relcell><topicref href="domain_elements.dita"/></relcell><relcell><topicref href="software_domain_elements_0.dita"/></relcell><relcell/><relcell/><relcell/><relcell/><relcell/></relrow><relrow><relcell><topicref href="domain_elements.dita"/></relcell><relcell><topicref href="utilities_domain_elements.dita"/></relcell><relcell/><relcell/><relcell/><relcell/><relcell/></relrow></reltable>-->
+</map>

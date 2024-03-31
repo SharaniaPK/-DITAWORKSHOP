@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="dita_syntax_markup_ditamap">
+    <title>Dita_Syntax_Markup</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <author type="creator">aashi</author>
+        <critdates>
+            <created date="2024-03-28"/>
+            <!--aashi-->
+            <revised modified="2024-03-29"/>
+        </critdates>
+    </prolog>
+    <refbody> </refbody>
+</reference>

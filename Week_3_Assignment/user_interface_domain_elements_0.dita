@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="user_interface_domain_elements_0">
+    <title>User Interface domain elements</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <author type="creator">aashi</author>
+        <critdates>
+            <created date="2024-03-29"/>
+            <!--aashi-->
+            <revised modified="2024-03-29"/>
+        </critdates>
+    </prolog>
+    <refbody>
+        <section id="section_zfp_zzz_w1c">
+            <p>The elements in the user interface domain each have a specific semantic purpose.</p>
+            <p>Note: Use <ph>&lt;</ph>dl<ph>></ph> to describe each of the following element and
+                provide an example.</p>
+        </section>
+        <section id="section_xtt_dz2_x1c">
+            <table id="table_nfv_jsc_x1c">
+                <tgroup cols="2">
+                    <colspec colname="c1" colnum="1"/>
+                    <colspec colname="c2" colnum="2"/>
+                    <thead>
+                        <row>
+                            <entry>Element Name</entry>
+                            <entry>Semantic Purpose</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>uicontrol</entry>
+                            <entry>user interface control</entry>
+                        </row>
+                        <row>
+                            <entry>wintitle</entry>
+                            <entry>window title</entry>
+                        </row>
+                        <row>
+                            <entry>menucascade</entry>
+                            <entry>menu cascade</entry>
+                        </row>
+                        <row>
+                            <entry>shortcut</entry>
+                            <entry>shortcut</entry>
+                        </row>
+                        <row>
+                            <entry>screen</entry>
+                            <entry>character (text only) screen</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+    </refbody>
+</reference>

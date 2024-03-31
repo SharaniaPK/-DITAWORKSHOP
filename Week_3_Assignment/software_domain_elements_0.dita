@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="software_domain_elements_0">
+    <title>Software domain elements</title>
+    <shortdesc></shortdesc>
+    <prolog>
+        <author type="creator">aashi</author>
+        <critdates>
+            <created date="2024-03-29"/>
+            <!--aashi-->
+            <revised modified="2024-03-29"/>
+        </critdates>
+    </prolog>
+    <refbody>
+        <section id="section_dxx_h11_x1c">
+            <p>The elements in the software domain each have a specific semantic purpose.</p>
+            <p>Note: Use <ph>&lt;</ph>dl<ph>></ph> to describe each of the following element and
+                provide an example.</p>
+        </section>
+        <section id="section_z3l_fz2_x1c">
+            <table id="table_ksl_j5c_x1c">
+                <tgroup cols="2">
+                    <colspec colname="c1" colnum="1"/>
+                    <colspec colname="c2" colnum="2"/>
+                    <thead>
+                        <row>
+                            <entry>Element Name</entry>
+                            <entry>Semantic Purpose</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>msgph</entry>
+                            <entry>message phrase</entry>
+                        </row>
+                        <row>
+                            <entry>msgblock</entry>
+                            <entry>message block</entry>
+                        </row>
+                        <row>
+                            <entry>msgnum</entry>
+                            <entry>message number</entry>
+                        </row>
+                        <row>
+                            <entry>cmdname</entry>
+                            <entry>command name</entry>
+                        </row>
+                        <row>
+                            <entry>varname</entry>
+                            <entry>variable (to be provided by user) name</entry>
+                        </row>
+                        <row>
+                            <entry>filepath</entry>
+                            <entry>file name or path, or URI</entry>
+                        </row>
+                        <row>
+                            <entry>userinput</entry>
+                            <entry>user input</entry>
+                        </row>
+                        <row>
+                            <entry>systemoutput</entry>
+                            <entry>system output</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+    </refbody>
+</reference>

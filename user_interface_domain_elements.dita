@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="user_interface_domain_elements">
+    <title>User Interface Domain Elements</title>
+    <prolog>
+        <author type="creator">aashi</author>
+        <critdates>
+            <created date="2024-03-28"/>
+            <!--aashi-->
+            <revised modified="2024-03-29"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <p>The user interface domain elements are designed for documenting the user interface of a
+            software program</p>
+        <dl id="dl_zxs_2kx_w1c">
+            <dlentry>
+                <dt>UI control</dt>
+                <dd>User Interface control<p>For example Click <uicontrol>File</uicontrol> and
+                        select <uicontrol>New</uicontrol> to launch the <uicontrol>New
+                            project</uicontrol> dialog</p></dd>
+            </dlentry>
+            <dlentry>
+                <dt>Menu Cascade</dt>
+                <dd>cascading a menu<p> Click <menucascade>
+                            <uicontrol>File</uicontrol>
+                            <uicontrol>New</uicontrol>
+                        </menucascade> to launch the New project dialog</p></dd>
+            </dlentry>
+            <dlentry>
+                <dt>Wintitle</dt>
+                <dd>Window title <p> Click <menucascade>
+                            <uicontrol>File</uicontrol>
+                            <uicontrol>New</uicontrol>
+                        </menucascade> to launch the <wintitle>New project
+                    </wintitle>dialog</p></dd>
+            </dlentry>
+            <dlentry>
+                <dt>Shortcut</dt>
+                <dd>shortcut <p> Click <menucascade>
+                            <uicontrol>File</uicontrol>
+                            <uicontrol>New</uicontrol>
+                        </menucascade> to launch the New project dialog. Alternatively press
+                                <uicontrol><shortcut>Ctrl+N</shortcut></uicontrol>keys</p></dd>
+            </dlentry>
+            <dlentry>
+                <dt>Screen</dt>
+                <dd>Character text only screen<p>
+                        <screen id="screen_vcc_ysx_w1c">Microsoft Windows [Version 10.0.19045.4170]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\aashi>cd..
+
+C:\Users>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 889B-8FA6
+
+ Directory of C:\Users
+
+12-07-2023  11:24    &lt;DIR>          .
+12-07-2023  11:24    &lt;DIR>          ..
+16-03-2024  12:53    &lt;DIR>          aashi
+27-02-2023  18:42    &lt;DIR>          Public
+12-07-2023  11:36    &lt;DIR>          shara
+               0 File(s)              0 bytes
+               5 Dir(s)  151,674,163,200 bytes free
+
+C:\Users>cd..
+
+C:\>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 889B-8FA6
+
+ Directory of C:\
+
+29-03-2024  17:36    &lt;DIR>          DITA Workshop
+28-05-2022  20:27    &lt;DIR>          Intel
+13-08-2023  21:51    &lt;DIR>          MS OFFICE  2019
+07-12-2019  14:44    &lt;DIR>          PerfLogs
+08-03-2024  22:05    &lt;DIR>          Program Files
+10-12-2023  22:10    &lt;DIR>          Program Files (x86)
+05-03-2024  13:19    &lt;DIR>          PythonProjects
+12-07-2023  11:24    &lt;DIR>          Users
+14-03-2024  15:48    &lt;DIR>          Windows
+               0 File(s)              0 bytes
+               9 Dir(s)  151,675,453,440 bytes free
+
+C:\></screen>
+                    </p></dd>
+            </dlentry>
+        </dl>
+    </conbody>
+</concept>

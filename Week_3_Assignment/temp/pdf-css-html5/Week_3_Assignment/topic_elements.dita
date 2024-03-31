@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\DITA Workshop\Week_3_Assignment\temp\pdf-css-html5\Week_3_Assignment?><?workdir-uri file:/C:/DITA%20Workshop/Week_3_Assignment/temp/pdf-css-html5/Week_3_Assignment/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Reference//EN?><?doctype-system reference.dtd?><reference xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="topic_elements" specializations="@props/deliveryTarget" xtrc="reference:1;3:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/topic_elements.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/topic_elements.dita">Topic Elements</title>
+    <prolog class="- topic/prolog " xtrc="prolog:1;5:13" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/topic_elements.dita">
+        <author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">aashi</author><author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/topic_elements.dita">aashi</author>
+        <critdates class="- topic/critdates " xtrc="critdates:1;7:20" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">
+            <created class="- topic/created " date="2024-03-28" xtrc="created:1;8:41" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29" xtrc="revised:1;10:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30" xtrc="revised:2;12:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+        </critdates>
+    </prolog>
+    <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;13:14" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/topic_elements.dita">
+        <example class="- topic/example " xtrc="example:1;14:18" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/topic_elements.dita">
+            <p class="- topic/p " xtrc="p:1;15:16" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/topic_elements.dita">The topic elements are the basic structural building blocks of all information
+                types.</p>
+            <p class="- topic/p " xtrc="p:2;17:16" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/topic_elements.dita">The topic elements are the main structural elements of topics. Some topic elements
+                are generic (that's inherited from the topic proto information type), while others
+                are specific to the concept, task or reference information types.</p>
+            <p class="- topic/p " xtrc="p:3;20:16" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/topic_elements.dita">Examples of topic elements include:</p>
+            <ul class="- topic/ul " id="ul_p2m_2tz_w1c" xtrc="ul:1;21:37" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/topic_elements.dita">
+                <li class="- topic/li " xtrc="li:1;22:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/topic_elements.dita">topic (and concept, task, reference)</li>
+                <li class="- topic/li " xtrc="li:2;23:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/topic_elements.dita">titlealts</li>
+                <li class="- topic/li " xtrc="li:3;24:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/topic_elements.dita">shortdesc</li>
+                <li class="- topic/li " xtrc="li:4;25:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/topic_elements.dita">body (and refbody, conbody, taskbody)</li>
+                <li class="- topic/li " xtrc="li:5;26:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/topic_elements.dita">section</li>
+                <li class="- topic/li " xtrc="li:6;27:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/topic_elements.dita">example</li>
+                <li class="- topic/li " xtrc="li:7;28:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/topic_elements.dita">related-links</li>
+            </ul>
+        </example>
+    </refbody>
+</reference>

@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?><map xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"><opentopic:map xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"><ph class="- topic/ph " keyref="name" xtrc="ph:1;4:31" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">DITA</ph>_Syntax_Markup</title>
+    <topicmeta class="- map/topicmeta " xtrc="topicmeta:1;5:16" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">
+        <author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">aashi</author>
+        <critdates class="- topic/critdates " xtrc="critdates:1;7:20" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">
+            <created class="- topic/created " date="2024-03-28" xtrc="created:1;8:41" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29" xtrc="revised:1;10:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30" xtrc="revised:2;12:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+        </critdates>
+    </topicmeta>
+    <topicgroup id="d127e31" class="+ map/topicref mapgroup-d/topicgroup " xtrc="topicgroup:1;15:17" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"><topicmeta class="- map/topicmeta " xtrc="topicmeta:2;16:20" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/></topicgroup>
+    <topicref class="- map/topicref " xtrc="topicref:1;27:49" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap" href="#unique_1" id="unique_1" type="concept" ohref="introduction_to_dita.dita" first_topic_id="#unique_1"><topicmeta class="- map/topicmeta " data-topic-id="introduction_to_dita"><resourceid class="- topic/resourceid " oxy-source="topic" appid="introduction_to_dita"/><navtitle class="- topic/navtitle ">Introduction to <ph class="- topic/ph " keyref="name" xtrc="ph:1;4:47" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/introduction_to_dita.dita">DITA</ph></navtitle><?ditaot gentext?><linktext class="- map/linktext ">Introduction to DITA</linktext><author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">aashi</author><critdates class="- topic/critdates " xtrc="critdates:1;7:20" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">
+            <created class="- topic/created " date="2024-03-28" xtrc="created:1;8:41" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29" xtrc="revised:1;10:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30" xtrc="revised:2;12:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+        </critdates></topicmeta></topicref>
+    <topicref class="- map/topicref " collection-type="family" xtrc="topicref:2;28:82" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap" href="#unique_2" id="unique_2" type="reference" ohref="organisation_of_dita_elements.dita" first_topic_id="#unique_2"><topicmeta class="- map/topicmeta " data-topic-id="organisation_of_dita_elements"><resourceid class="- topic/resourceid " oxy-source="topic" appid="organisation_of_dita_elements"/><navtitle class="- topic/navtitle ">Organisation of <ph class="- topic/ph " keyref="name" xtrc="ph:1;4:47" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/organisation_of_dita_elements.dita">DITA</ph> elements</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Organisation of DITA elements</linktext><author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">aashi</author><critdates class="- topic/critdates " xtrc="critdates:1;7:20" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">
+            <created class="- topic/created " date="2024-03-28" xtrc="created:1;8:41" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29" xtrc="revised:1;10:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30" xtrc="revised:2;12:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+        </critdates></topicmeta><topicref class="- map/topicref " xtrc="topicref:3;29:47" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap" href="#unique_3" id="unique_3" type="reference" ohref="topic_elements.dita" first_topic_id="#unique_3"><topicmeta class="- map/topicmeta " data-topic-id="topic_elements"><resourceid class="- topic/resourceid " oxy-source="topic" appid="topic_elements"/><navtitle class="- topic/navtitle ">Topic Elements</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Topic Elements</linktext><author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">aashi</author><critdates class="- topic/critdates " xtrc="critdates:1;7:20" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">
+            <created class="- topic/created " date="2024-03-28" xtrc="created:1;8:41" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29" xtrc="revised:1;10:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30" xtrc="revised:2;12:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+        </critdates></topicmeta></topicref><topicref class="- map/topicref " xtrc="topicref:4;30:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap" href="#unique_4" id="unique_4" type="reference" ohref="map_elements.dita" first_topic_id="#unique_4"><topicmeta class="- map/topicmeta " data-topic-id="map_elements"><resourceid class="- topic/resourceid " oxy-source="topic" appid="map_elements"/><navtitle class="- topic/navtitle ">Map Elements</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Map Elements</linktext><author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">aashi</author><critdates class="- topic/critdates " xtrc="critdates:1;7:20" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">
+            <created class="- topic/created " date="2024-03-28" xtrc="created:1;8:41" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29" xtrc="revised:1;10:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30" xtrc="revised:2;12:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+        </critdates></topicmeta></topicref><topicref class="- map/topicref " xtrc="topicref:5;31:46" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap" href="#unique_5" id="unique_5" type="reference" ohref="body_elements.dita" first_topic_id="#unique_5"><topicmeta class="- map/topicmeta " data-topic-id="body_elements"><resourceid class="- topic/resourceid " oxy-source="topic" appid="body_elements"/><navtitle class="- topic/navtitle ">Body Elements</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Body Elements</linktext><author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">aashi</author><critdates class="- topic/critdates " xtrc="critdates:1;7:20" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">
+            <created class="- topic/created " date="2024-03-28" xtrc="created:1;8:41" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29" xtrc="revised:1;10:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30" xtrc="revised:2;12:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+        </critdates></topicmeta></topicref><topicref class="- map/topicref " xtrc="topicref:6;32:48" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap" href="#unique_6" id="unique_6" type="reference" ohref="prolog_elements.dita" first_topic_id="#unique_6"><topicmeta class="- map/topicmeta " data-topic-id="prolog_elements"><resourceid class="- topic/resourceid " oxy-source="topic" appid="prolog_elements"/><navtitle class="- topic/navtitle ">Prolog Elements</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Prolog Elements</linktext><author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">aashi</author><critdates class="- topic/critdates " xtrc="critdates:1;7:20" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">
+            <created class="- topic/created " date="2024-03-28" xtrc="created:1;8:41" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29" xtrc="revised:1;10:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30" xtrc="revised:2;12:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+        </critdates></topicmeta></topicref><topicref class="- map/topicref " xtrc="topicref:7;33:47" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap" href="#unique_7" id="unique_7" type="concept" ohref="domain_elements.dita" first_topic_id="#unique_7"><topicmeta class="- map/topicmeta " data-topic-id="domain_elements"><resourceid class="- topic/resourceid " oxy-source="topic" appid="domain_elements"/><navtitle class="- topic/navtitle ">Domain Elements</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Domain Elements</linktext><author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">aashi</author><critdates class="- topic/critdates " xtrc="critdates:1;7:20" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">
+            <created class="- topic/created " date="2024-03-28" xtrc="created:1;8:41" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29" xtrc="revised:1;10:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30" xtrc="revised:2;12:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+        </critdates></topicmeta><topicref class="- map/topicref " xtrc="topicref:8;34:64" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap" href="#unique_8" id="unique_8" type="reference" ohref="programming_domain_elements.dita" first_topic_id="#unique_8"><topicmeta class="- map/topicmeta " data-topic-id="programming_domain_elements"><resourceid class="- topic/resourceid " oxy-source="topic" appid="programming_domain_elements"/><navtitle class="- topic/navtitle ">Programming domain elements</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Programming domain elements</linktext><author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">aashi</author><critdates class="- topic/critdates " xtrc="critdates:1;7:20" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">
+            <created class="- topic/created " date="2024-03-28" xtrc="created:1;8:41" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29" xtrc="revised:1;10:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30" xtrc="revised:2;12:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+        </critdates></topicmeta></topicref><topicref class="- map/topicref " xtrc="topicref:9;35:69" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap" href="#unique_9" id="unique_9" type="reference" ohref="user_interface_domain_elements_0.dita" first_topic_id="#unique_9"><topicmeta class="- map/topicmeta " data-topic-id="user_interface_domain_elements_0"><resourceid class="- topic/resourceid " oxy-source="topic" appid="user_interface_domain_elements_0"/><navtitle class="- topic/navtitle ">User Interface domain elements</navtitle><?ditaot gentext?><linktext class="- map/linktext ">User Interface domain elements</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">aashi</author><critdates class="- topic/critdates " xtrc="critdates:1;7:20" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">
+            <created class="- topic/created " date="2024-03-28" xtrc="created:1;8:41" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29" xtrc="revised:1;10:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30" xtrc="revised:2;12:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+        </critdates></topicmeta></topicref><topicref class="- map/topicref " xtrc="topicref:10;36:63" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap" href="#unique_10" id="unique_10" type="reference" ohref="software_domain_elements_0.dita" first_topic_id="#unique_10"><topicmeta class="- map/topicmeta " data-topic-id="software_domain_elements_0"><resourceid class="- topic/resourceid " oxy-source="topic" appid="software_domain_elements_0"/><navtitle class="- topic/navtitle ">Software domain elements</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Software domain elements</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">aashi</author><critdates class="- topic/critdates " xtrc="critdates:1;7:20" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">
+            <created class="- topic/created " date="2024-03-28" xtrc="created:1;8:41" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29" xtrc="revised:1;10:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30" xtrc="revised:2;12:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+        </critdates></topicmeta></topicref><topicref class="- map/topicref " xtrc="topicref:11;37:62" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap" href="#unique_11" id="unique_11" type="reference" ohref="utilities_domain_elements.dita" first_topic_id="#unique_11"><topicmeta class="- map/topicmeta " data-topic-id="utilities_domain_elements"><resourceid class="- topic/resourceid " oxy-source="topic" appid="utilities_domain_elements"/><navtitle class="- topic/navtitle ">Utilities domain elements</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Utilities domain elements</linktext><author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">aashi</author><critdates class="- topic/critdates " xtrc="critdates:1;7:20" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">
+            <created class="- topic/created " date="2024-03-28" xtrc="created:1;8:41" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29" xtrc="revised:1;10:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30" xtrc="revised:2;12:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+        </critdates></topicmeta></topicref><topicref class="- map/topicref " xtrc="topicref:12;38:62" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap" href="#unique_11" id="unique_11_ssol1" type="reference" ohref="utilities_domain_elements.dita"><topicmeta class="- map/topicmeta " data-topic-id="utilities_domain_elements"><resourceid class="- topic/resourceid " oxy-source="topic" appid="utilities_domain_elements"/><navtitle class="- topic/navtitle ">Utilities domain elements</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Utilities domain elements</linktext><author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">aashi</author><author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">aashi</author><critdates class="- topic/critdates " xtrc="critdates:1;7:20" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">
+            <created class="- topic/created " date="2024-03-28" xtrc="created:1;8:41" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29" xtrc="revised:1;10:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30" xtrc="revised:2;12:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+        </critdates></topicmeta></topicref></topicref></topicref>
+    
+</opentopic:map><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="concept:1;3:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/introduction_to_dita.dita" oid="introduction_to_dita" id="unique_1">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/introduction_to_dita.dita">Introduction to <ph class="- topic/ph " keyref="name" xtrc="ph:1;4:47" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/introduction_to_dita.dita">DITA</ph></title>
+    <prolog class="- topic/prolog " xtrc="prolog:1;5:13" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/introduction_to_dita.dita">
+        <author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">aashi</author><author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/introduction_to_dita.dita">aashi</author>
+        <critdates class="- topic/critdates " xtrc="critdates:1;7:20" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">
+            <created class="- topic/created " date="2024-03-28" xtrc="created:1;8:41" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29" xtrc="revised:1;10:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30" xtrc="revised:2;12:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+        </critdates>
+    </prolog>
+    <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;13:14" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/introduction_to_dita.dita">
+        <section class="- topic/section " id="unique_1_Connect_42_section_gcr_ylz_w1c" xtrc="section:1;14:43" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/introduction_to_dita.dita">
+            <p class="- topic/p " xtrc="p:1;15:16" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/introduction_to_dita.dita">The Darwin Information Typing Architecture (<ph class="- topic/ph " keyref="name" xtrc="ph:2;15:79" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/introduction_to_dita.dita">DITA</ph>) is an XML-based
+                architecture for authoring, producing, and delivering topic-oriented,
+                information-typed content that can be reused and single-sourced in a variety of
+                ways. While <ph class="- topic/ph " keyref="name" xtrc="ph:3;18:47" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/introduction_to_dita.dita">DITA</ph> historically has been driven by the
+                requirements of large-scale technical documentation authoring, management, and
+                delivery, it is a standard that is applicable to any kind of publication or
+                information that might be presented to readers, including interactive training and
+                educational materials, standards, reports, business documents, trade books, travel
+                and nature guides, and more.</p>
+            <p class="- topic/p " xtrc="p:2;24:16" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/introduction_to_dita.dita"><ph class="- topic/ph " keyref="name" xtrc="ph:4;24:34" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/introduction_to_dita.dita">DITA</ph> is designed for creating new document types and
+                describing new information domains based on existing types and domains. The process
+                for creating new types and domains is called specialization. Specialization enables
+                the creation of specific, targeted XML grammars that can still use tools and design
+                rules that were developed for more general types and domains; this is similar to how
+                classes in an object-oriented system can inherit the methods of ancestor
+                classes.</p>
+            <p class="- topic/p " xtrc="p:3;31:16" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/introduction_to_dita.dita">Because <ph class="- topic/ph " keyref="name" xtrc="ph:5;31:42" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/introduction_to_dita.dita">DITA</ph> topics are conforming XML documents, they can be
+                readily viewed, edited, and validated using standard XML tools, although realizing
+                the full potential of <ph class="- topic/ph " keyref="name" xtrc="ph:6;33:57" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/introduction_to_dita.dita">DITA</ph> requires using <ph class="- topic/ph " keyref="name" xtrc="ph:7;34:22" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/introduction_to_dita.dita">DITA</ph>-aware tools.</p>
+        </section>
+    </conbody>
+</concept><reference class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="reference:1;3:47" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/organisation_of_dita_elements.dita" oid="organisation_of_dita_elements" id="unique_2">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/organisation_of_dita_elements.dita">Organisation of <ph class="- topic/ph " keyref="name" xtrc="ph:1;4:47" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/organisation_of_dita_elements.dita">DITA</ph> elements</title>
+    <prolog class="- topic/prolog " xtrc="prolog:1;5:13" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/organisation_of_dita_elements.dita">
+        <author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">aashi</author><author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/organisation_of_dita_elements.dita">aashi</author>
+        <critdates class="- topic/critdates " xtrc="critdates:1;7:20" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">
+            <created class="- topic/created " date="2024-03-28" xtrc="created:1;8:41" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29" xtrc="revised:1;10:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30" xtrc="revised:2;12:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+        </critdates>
+    </prolog>
+    <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;13:14" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/organisation_of_dita_elements.dita">
+        <example class="- topic/example " xtrc="example:1;14:18" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/organisation_of_dita_elements.dita">
+            <p class="- topic/p " xtrc="p:1;15:16" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/organisation_of_dita_elements.dita">Elements in <ph class="- topic/ph " keyref="name" xtrc="ph:2;15:47" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/organisation_of_dita_elements.dita">DITA</ph> are grouped together into a number of categories for
+                organizational and comprehension purposes.</p>
+            <p class="- topic/p " xtrc="p:2;17:16" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/organisation_of_dita_elements.dita"><ph class="- topic/ph " keyref="name" xtrc="ph:3;17:35" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/organisation_of_dita_elements.dita">DITA</ph> elements can be broadly categorized as follows:</p>
+            <ul class="- topic/ul " id="unique_2_Connect_42_ul_x1n_44z_w1c" xtrc="ul:1;18:37" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/organisation_of_dita_elements.dita">
+                <li class="- topic/li " xtrc="li:1;19:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/organisation_of_dita_elements.dita">Topic elements</li>
+                <li class="- topic/li " xtrc="li:2;20:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/organisation_of_dita_elements.dita">Map elements</li>
+                <li class="- topic/li " xtrc="li:3;21:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/organisation_of_dita_elements.dita">Body elements</li>
+                <li class="- topic/li " xtrc="li:4;22:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/organisation_of_dita_elements.dita">Prolog elements</li>
+                <li class="- topic/li " xtrc="li:5;23:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/organisation_of_dita_elements.dita">Domain elements</li>
+            </ul>
+            <p class="- topic/p " xtrc="p:3;25:16" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/organisation_of_dita_elements.dita">In fact, this is how the <ph class="- topic/ph " keyref="name" xtrc="ph:4;25:60" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/organisation_of_dita_elements.dita">DITA</ph> Language Reference groups <ph class="- topic/ph " keyref="name" xtrc="ph:5;26:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/organisation_of_dita_elements.dita">DITA</ph> elements. This categorization of the various elements is partly
+                to aid understanding, and partly to make it technically easier for the schema files
+                (DTD and XSD) to be managed.</p>
+            <p class="- topic/p " xtrc="p:4;29:16" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/organisation_of_dita_elements.dita">Elements used within topics can also be differently categorized as block or phrase
+                elements.</p>
+        </example>
+    </refbody>
+<reference class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="reference:1;3:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/topic_elements.dita" oid="topic_elements" id="unique_3">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/topic_elements.dita">Topic Elements</title>
+    <prolog class="- topic/prolog " xtrc="prolog:1;5:13" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/topic_elements.dita">
+        <author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">aashi</author><author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/topic_elements.dita">aashi</author>
+        <critdates class="- topic/critdates " xtrc="critdates:1;7:20" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">
+            <created class="- topic/created " date="2024-03-28" xtrc="created:1;8:41" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29" xtrc="revised:1;10:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30" xtrc="revised:2;12:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+        </critdates>
+    </prolog>
+    <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;13:14" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/topic_elements.dita">
+        <example class="- topic/example " xtrc="example:1;14:18" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/topic_elements.dita">
+            <p class="- topic/p " xtrc="p:1;15:16" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/topic_elements.dita">The topic elements are the basic structural building blocks of all information
+                types.</p>
+            <p class="- topic/p " xtrc="p:2;17:16" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/topic_elements.dita">The topic elements are the main structural elements of topics. Some topic elements
+                are generic (that's inherited from the topic proto information type), while others
+                are specific to the concept, task or reference information types.</p>
+            <p class="- topic/p " xtrc="p:3;20:16" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/topic_elements.dita">Examples of topic elements include:</p>
+            <ul class="- topic/ul " id="unique_3_Connect_42_ul_p2m_2tz_w1c" xtrc="ul:1;21:37" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/topic_elements.dita">
+                <li class="- topic/li " xtrc="li:1;22:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/topic_elements.dita">topic (and concept, task, reference)</li>
+                <li class="- topic/li " xtrc="li:2;23:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/topic_elements.dita">titlealts</li>
+                <li class="- topic/li " xtrc="li:3;24:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/topic_elements.dita">shortdesc</li>
+                <li class="- topic/li " xtrc="li:4;25:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/topic_elements.dita">body (and refbody, conbody, taskbody)</li>
+                <li class="- topic/li " xtrc="li:5;26:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/topic_elements.dita">section</li>
+                <li class="- topic/li " xtrc="li:6;27:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/topic_elements.dita">example</li>
+                <li class="- topic/li " xtrc="li:7;28:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/topic_elements.dita">related-links</li>
+            </ul>
+        </example>
+    </refbody>
+</reference><reference class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="reference:1;3:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/map_elements.dita" oid="map_elements" id="unique_4">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/map_elements.dita">Map Elements</title>
+    <prolog class="- topic/prolog " xtrc="prolog:1;5:13" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/map_elements.dita">
+        <author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">aashi</author><author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/map_elements.dita">aashi</author>
+        <critdates class="- topic/critdates " xtrc="critdates:1;7:20" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">
+            <created class="- topic/created " date="2024-03-28" xtrc="created:1;8:41" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29" xtrc="revised:1;10:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30" xtrc="revised:2;12:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+        </critdates>
+    </prolog>
+    <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;13:14" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/map_elements.dita">
+        <example class="- topic/example " xtrc="example:1;14:18" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/map_elements.dita">
+            <p class="- topic/p " xtrc="p:1;15:16" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/map_elements.dita">The map elements are the elements used in ditamaps and bookmaps.</p>
+            <p class="- topic/p " xtrc="p:2;16:16" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/map_elements.dita">The map elements are a small set of elements, some of which have been specialised
+                into other elements for use in bookmaps.</p>
+            <p class="- topic/p " xtrc="p:3;18:16" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/map_elements.dita">The map elements include:</p>
+            <ul class="- topic/ul " id="unique_4_Connect_42_ul_e3c_25z_w1c" xtrc="ul:1;19:37" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/map_elements.dita">
+                <li class="- topic/li " xtrc="li:1;20:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/map_elements.dita">map</li>
+                <li class="- topic/li " xtrc="li:2;21:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/map_elements.dita">topicref</li>
+                <li class="- topic/li " xtrc="li:3;22:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/map_elements.dita">topicmeta</li>
+                <li class="- topic/li " xtrc="li:4;23:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/map_elements.dita">topicgroup</li>
+                <li class="- topic/li " xtrc="li:5;24:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/map_elements.dita">topichead</li>
+                <li class="- topic/li " xtrc="li:6;25:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/map_elements.dita">reltable</li>
+            </ul>
+        </example>
+    </refbody>
+</reference><reference class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="reference:1;3:31" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/body_elements.dita" oid="body_elements" id="unique_5">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/body_elements.dita">Body Elements</title>
+    <prolog class="- topic/prolog " xtrc="prolog:1;5:13" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/body_elements.dita">
+        <author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">aashi</author><author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/body_elements.dita">aashi</author>
+        <critdates class="- topic/critdates " xtrc="critdates:1;7:20" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">
+            <created class="- topic/created " date="2024-03-28" xtrc="created:1;8:41" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29" xtrc="revised:1;10:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30" xtrc="revised:2;12:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+        </critdates>
+    </prolog>
+    <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;11:14" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/body_elements.dita">
+        <example class="- topic/example " xtrc="example:1;12:18" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/body_elements.dita">
+            <p class="- topic/p " xtrc="p:1;13:16" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/body_elements.dita">The simple block structures within the body of topics are categorized as the body
+                elements.</p>
+            <p class="- topic/p " xtrc="p:2;15:16" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/body_elements.dita">Body elements are the most common content authoring block elements, and include:</p>
+            <ul class="- topic/ul " id="unique_5_Connect_42_ul_fc5_55z_w1c" xtrc="ul:1;16:37" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/body_elements.dita">
+                <li class="- topic/li " xtrc="li:1;17:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/body_elements.dita">paragraph</li>
+                <li class="- topic/li " xtrc="li:2;18:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/body_elements.dita">list</li>
+                <li class="- topic/li " xtrc="li:3;19:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/body_elements.dita">phrase</li>
+                <li class="- topic/li " xtrc="li:4;20:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/body_elements.dita">figure</li>
+            </ul>
+        </example>
+    </refbody>
+</reference><reference class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="reference:1;3:33" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/prolog_elements.dita" oid="prolog_elements" id="unique_6">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/prolog_elements.dita">Prolog Elements</title>
+    <prolog class="- topic/prolog " xtrc="prolog:1;5:13" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/prolog_elements.dita">
+        <author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">aashi</author><author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/prolog_elements.dita">aashi</author>
+        <critdates class="- topic/critdates " xtrc="critdates:1;7:20" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">
+            <created class="- topic/created " date="2024-03-28" xtrc="created:1;8:41" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29" xtrc="revised:1;10:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30" xtrc="revised:2;12:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+        </critdates>
+    </prolog>
+    <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;11:14" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/prolog_elements.dita">
+        <example class="- topic/example " xtrc="example:1;12:18" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/prolog_elements.dita">
+            <p class="- topic/p " xtrc="p:1;13:16" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/prolog_elements.dita">A topic's metadata is stored in a range of prolog elements.</p>
+            <p class="- topic/p " xtrc="p:2;14:16" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/prolog_elements.dita">The <ph class="- topic/ph " keyref="name" xtrc="ph:1;14:38" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/prolog_elements.dita">DITA</ph>prolog elements contain the main metadata for a topic
+                or collection.</p>
+            <p class="- topic/p " xtrc="p:3;16:16" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/prolog_elements.dita">The types of information recorded in the prolog include:</p>
+            <ul class="- topic/ul " id="unique_6_Connect_42_ul_rsx_3vz_w1c" xtrc="ul:1;17:37" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/prolog_elements.dita">
+                <li class="- topic/li " xtrc="li:1;18:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/prolog_elements.dita">author</li>
+                <li class="- topic/li " xtrc="li:2;19:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/prolog_elements.dita">copyright information</li>
+                <li class="- topic/li " xtrc="li:3;20:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/prolog_elements.dita">critical tracking dates</li>
+                <li class="- topic/li " xtrc="li:4;21:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/prolog_elements.dita">permissions for use/management of the content</li>
+                <li class="- topic/li " xtrc="li:5;22:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/prolog_elements.dita">extensive metadata about the content of the document</li>
+            </ul>
+        </example>
+    </refbody>
+</reference><concept class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="concept:1;3:31" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita" oid="domain_elements" id="unique_7">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">Domain Elements</title>
+    <prolog class="- topic/prolog " xtrc="prolog:1;5:13" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">
+        <author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">aashi</author><author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">aashi</author>
+        <critdates class="- topic/critdates " xtrc="critdates:1;7:20" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">
+            <created class="- topic/created " date="2024-03-28" xtrc="created:1;8:41" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29" xtrc="revised:1;10:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30" xtrc="revised:2;12:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+        </critdates>
+    </prolog>
+    <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;11:14" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">
+        <p class="- topic/p " xtrc="p:1;12:12" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">The domain elements are comprised of a number of separate sets of elements that relate to
+            specific documentation fields.</p>
+        <p class="- topic/p " xtrc="p:2;14:12" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">Remembering that DITA started life within IBM as a tool for creating software and
+            hardware documentation, it shouldn't be a surprise to discover that DITA's base elements
+            reflect that background.</p>
+        <p class="- topic/p " xtrc="p:3;17:12" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">Elements that relate to a particular field (such as software) are called domain elements.
+            The domain elements within DITA are grouped into:</p>
+        <dl class="- topic/dl " id="unique_7_Connect_42_dl_yz1_vxz_w1c" xtrc="dl:1;19:33" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">
+            <dlentry class="- topic/dlentry " xtrc="dlentry:1;20:22" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">
+                <dt class="- topic/dt " xtrc="dt:1;21:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">typographical elements</dt>
+                <dd class="- topic/dd " xtrc="dd:1;22:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">generic word-processor like elements used to highlight text</dd>
+            </dlentry>
+            <dlentry class="- topic/dlentry " xtrc="dlentry:2;24:22" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">
+                <dt class="- topic/dt " xtrc="dt:2;25:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">programming elements</dt>
+                <dd class="- topic/dd " xtrc="dd:2;26:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">terms and structures related to programming environments</dd>
+            </dlentry>
+            <dlentry class="- topic/dlentry " xtrc="dlentry:3;28:22" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">
+                <dt class="- topic/dt " xtrc="dt:3;29:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">software elements</dt>
+                <dd class="- topic/dd " xtrc="dd:3;30:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">terms and structures related to the operation of a software program</dd>
+            </dlentry>
+            <dlentry class="- topic/dlentry " xtrc="dlentry:4;32:22" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">
+                <dt class="- topic/dt " xtrc="dt:4;33:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">table elements</dt>
+                <dd class="- topic/dd " xtrc="dd:4;34:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">elements that relate to table structures</dd>
+            </dlentry>
+            <dlentry class="- topic/dlentry " xtrc="dlentry:5;36:22" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">
+                <dt class="- topic/dt " xtrc="dt:5;37:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">user interface elements</dt>
+                <dd class="- topic/dd " xtrc="dd:5;38:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">terms and structures related to a software user interface</dd>
+            </dlentry>
+            <dlentry class="- topic/dlentry " xtrc="dlentry:6;40:22" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">
+                <dt class="- topic/dt " xtrc="dt:6;41:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">utilities elements</dt>
+                <dd class="- topic/dd " xtrc="dd:6;42:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">elements that don't fit anywhere else!</dd>
+            </dlentry>
+        </dl>
+        <p class="- topic/p " xtrc="p:4;45:12" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">If you are writing a programmer's reference, you will mainly use elements in
+            theprogramming domain.</p>
+        <p class="- topic/p " xtrc="p:5;47:12" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">If you are writing a mobile phone user guide, you should avoid using programming domain
+            elements, and mainly use user interface domain elements.</p>
+        <p class="- topic/p " xtrc="p:6;49:12" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">The typographical domain elements are designed to be used only when <b class="+ topic/ph hi-d/b " xtrc="b:1;49:83" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">no semantically-
+                appropriate elements are available</b> and a formatting effect is required. These
+            elements should therefore only be used as a last resort.</p>
+    </conbody>
+<reference class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="reference:1;3:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita" oid="programming_domain_elements" id="unique_8">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">Programming domain elements</title>
+    <prolog class="- topic/prolog " xtrc="prolog:1;5:13" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">
+        <author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">aashi</author><author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">aashi</author>
+        <critdates class="- topic/critdates " xtrc="critdates:1;7:20" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">
+            <created class="- topic/created " date="2024-03-28" xtrc="created:1;8:41" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29" xtrc="revised:1;10:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30" xtrc="revised:2;12:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+        </critdates>
+    </prolog>
+    <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;13:14" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">
+        <section class="- topic/section " id="unique_8_Connect_42_section_hsp_vzz_w1c" xtrc="section:1;14:43" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">
+            <p class="- topic/p " xtrc="p:1;15:16" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">The elements in the programming domain each have a specific semantic purpose.</p>
+            <p class="- topic/p " xtrc="p:2;16:16" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">Note: Use <ph class="- topic/ph " xtrc="ph:1;16:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">&lt;</ph>dl<ph class="- topic/ph " xtrc="ph:2;16:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">&gt;</ph> to describe each of the following element and
+                provide an example.</p>
+        </section>
+        <section class="- topic/section " id="unique_8_Connect_42_section_pqc_yy2_x1c" xtrc="section:2;19:43" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">
+            <table class="- topic/table " id="unique_8_Connect_42_table_ub2_qb1_x1c" xtrc="table:1;20:43" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">
+                <tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:1;21:34" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;22:69" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1.49*" xtrc="colspec:2;23:72" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:1;24:28" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">
+                        <row class="- topic/row " xtrc="row:1;25:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:1;26:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">Element Name</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:2;27:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">Semantic Purpose</entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:1;30:28" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">
+                        <row class="- topic/row " xtrc="row:2;31:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:3;32:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">apiname</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:4;33:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">API name</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:3;35:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:5;36:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">codeblock</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:6;37:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">code block</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:4;39:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:7;40:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">codeph</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:8;41:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">code phrase</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:5;43:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:9;44:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">option</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:10;45:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">one of a set of options</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:6;47:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6" xtrc="entry:11;48:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">parmname</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6" xtrc="entry:12;49:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">parameter or argument</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:7;51:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7" xtrc="entry:13;52:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">parml</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7" xtrc="entry:14;53:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">parameter list</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:8;55:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8" xtrc="entry:15;56:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">plentry</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8" xtrc="entry:16;57:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">parameter list entry (within parml)</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:9;59:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="9" xtrc="entry:17;60:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">pt</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="9" xtrc="entry:18;61:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">parameter term (within plentry)</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:10;63:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="10" xtrc="entry:19;64:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">pd</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="10" xtrc="entry:20;65:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">parameter definition (within plentry) </entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:11;67:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="11" xtrc="entry:21;68:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">synph</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="11" xtrc="entry:22;69:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">syntax phrase</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:12;71:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="12" xtrc="entry:23;72:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">syntaxdiagram</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="12" xtrc="entry:24;73:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">syntax diagram</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:13;75:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="13" xtrc="entry:25;76:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">groupseq</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="13" xtrc="entry:26;77:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">group of syntactic units (used only for syntax diagram)</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:14;79:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="14" xtrc="entry:27;80:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">groupchoice</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="14" xtrc="entry:28;81:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">choice of a group of syntactic units (used only for syntax
+                                diagrams)</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:15;84:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="15" xtrc="entry:29;85:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">groupcomp</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="15" xtrc="entry:30;86:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">group of composite syntactic units (used only for syntax
+                                diagrams)</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:16;89:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="16" xtrc="entry:31;90:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">fragment</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="16" xtrc="entry:32;91:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">fragment of syntax (used only for syntax diagrams</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:17;93:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="17" xtrc="entry:33;94:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">fragref</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="17" xtrc="entry:34;95:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">cross-reference to a fragment of syntax</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:18;97:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="18" xtrc="entry:35;98:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">synblk</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="18" xtrc="entry:36;99:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">block of small pieces of syntax</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:19;101:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="19" xtrc="entry:37;102:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">synnote</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="19" xtrc="entry:38;103:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">footnote within syntax (syntax note)</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:20;105:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="20" xtrc="entry:39;106:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">synnoteref</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="20" xtrc="entry:40;107:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">cross-reference to a syntax note</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:21;109:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="21" xtrc="entry:41;110:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">kwd</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="21" xtrc="entry:42;111:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">syntax keyword (used only for syntax diagrams)</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:22;113:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="22" xtrc="entry:43;114:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">var</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="22" xtrc="entry:44;115:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">variable that a user must supply (used only for syntax
+                                diagrams)</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:23;118:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="23" xtrc="entry:45;119:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">oper</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="23" xtrc="entry:46;120:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">operator character (such as <ph class="- topic/ph " xtrc="ph:3;120:68" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">+</ph>, <ph class="- topic/ph " xtrc="ph:4;120:80" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">-</ph>, and
+                                    <ph class="- topic/ph " xtrc="ph:5;121:41" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">=</ph>) within syntax</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:24;123:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="24" xtrc="entry:47;124:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">delim</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="24" xtrc="entry:48;125:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">delimiter character (such as<ph class="- topic/ph " xtrc="ph:6;125:68" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita"> /</ph>, <ph class="- topic/ph " xtrc="ph:7;125:81" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">|</ph>, and
+                                    <ph class="- topic/ph " xtrc="ph:8;126:41" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">;</ph>) within syntax</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:25;128:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="25" xtrc="entry:49;129:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">sep</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="25" xtrc="entry:50;130:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">separator character within syntax</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:26;132:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="26" xtrc="entry:51;133:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">resep</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="26" xtrc="entry:52;134:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita">separator character for repeated syntax elements</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+    </refbody>
+</reference><reference class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="reference:1;3:50" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita" oid="user_interface_domain_elements_0" id="unique_9">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">User Interface domain elements</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita"/>
+    <prolog class="- topic/prolog " xtrc="prolog:1;6:13" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">
+        <author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">aashi</author><author class="- topic/author " type="creator" xtrc="author:1;7:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">aashi</author>
+        <critdates class="- topic/critdates " xtrc="critdates:1;7:20" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">
+            <created class="- topic/created " date="2024-03-28" xtrc="created:1;8:41" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29" xtrc="revised:1;10:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30" xtrc="revised:2;12:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+        </critdates>
+    </prolog>
+    <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;14:14" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">
+        <section class="- topic/section " id="unique_9_Connect_42_section_zfp_zzz_w1c" xtrc="section:1;15:43" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">
+            <p class="- topic/p " xtrc="p:1;16:16" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">The elements in the user interface domain each have a specific semantic purpose.</p>
+            <p class="- topic/p " xtrc="p:2;17:16" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">Note: Use <ph class="- topic/ph " xtrc="ph:1;17:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">&lt;</ph>dl<ph class="- topic/ph " xtrc="ph:2;17:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">&gt;</ph> to describe each of the following element and
+                provide an example.</p>
+        </section>
+        <section class="- topic/section " id="unique_9_Connect_42_section_xtt_dz2_x1c" xtrc="section:2;20:43" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">
+            <table class="- topic/table " id="unique_9_Connect_42_table_nfv_jsc_x1c" xtrc="table:1;21:43" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">
+                <tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:1;22:34" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" xtrc="colspec:1;23:55" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" xtrc="colspec:2;24:55" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:1;25:28" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">
+                        <row class="- topic/row " xtrc="row:1;26:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:1;27:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">Element Name</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:2;28:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">Semantic Purpose</entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:1;31:28" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">
+                        <row class="- topic/row " xtrc="row:2;32:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:3;33:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">uicontrol</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:4;34:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">user interface control</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:3;36:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:5;37:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">wintitle</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:6;38:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">window title</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:4;40:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:7;41:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">menucascade</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:8;42:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">menu cascade</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:5;44:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:9;45:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">shortcut</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:10;46:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">shortcut</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:6;48:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6" xtrc="entry:11;49:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">screen</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6" xtrc="entry:12;50:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita">character (text only) screen</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+    </refbody>
+</reference><reference class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="reference:1;3:44" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita" oid="software_domain_elements_0" id="unique_10">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">Software domain elements</title>
+    <shortdesc class="- topic/shortdesc " xtrc="shortdesc:1;5:16" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita"/>
+    <prolog class="- topic/prolog " xtrc="prolog:1;6:13" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">
+        <author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">aashi</author><author class="- topic/author " type="creator" xtrc="author:1;7:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">aashi</author>
+        <critdates class="- topic/critdates " xtrc="critdates:1;7:20" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">
+            <created class="- topic/created " date="2024-03-28" xtrc="created:1;8:41" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29" xtrc="revised:1;10:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30" xtrc="revised:2;12:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+        </critdates>
+    </prolog>
+    <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;14:14" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">
+        <section class="- topic/section " id="unique_10_Connect_42_section_dxx_h11_x1c" xtrc="section:1;15:43" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">
+            <p class="- topic/p " xtrc="p:1;16:16" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">The elements in the software domain each have a specific semantic purpose.</p>
+            <p class="- topic/p " xtrc="p:2;17:16" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">Note: Use <ph class="- topic/ph " xtrc="ph:1;17:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">&lt;</ph>dl<ph class="- topic/ph " xtrc="ph:2;17:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">&gt;</ph> to describe each of the following element and
+                provide an example.</p>
+        </section>
+        <section class="- topic/section " id="unique_10_Connect_42_section_z3l_fz2_x1c" xtrc="section:2;20:43" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">
+            <table class="- topic/table " id="unique_10_Connect_42_table_ksl_j5c_x1c" xtrc="table:1;21:43" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">
+                <tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:1;22:34" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" xtrc="colspec:1;23:55" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" xtrc="colspec:2;24:55" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:1;25:28" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">
+                        <row class="- topic/row " xtrc="row:1;26:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:1;27:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">Element Name</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:2;28:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">Semantic Purpose</entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:1;31:28" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">
+                        <row class="- topic/row " xtrc="row:2;32:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:3;33:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">msgph</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:4;34:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">message phrase</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:3;36:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:5;37:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">msgblock</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:6;38:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">message block</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:4;40:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:7;41:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">msgnum</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:8;42:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">message number</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:5;44:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:9;45:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">cmdname</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:10;46:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">command name</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:6;48:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6" xtrc="entry:11;49:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">varname</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6" xtrc="entry:12;50:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">variable (to be provided by user) name</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:7;52:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7" xtrc="entry:13;53:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">filepath</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7" xtrc="entry:14;54:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">file name or path, or URI</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:8;56:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8" xtrc="entry:15;57:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">userinput</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8" xtrc="entry:16;58:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">user input</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:9;60:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="9" xtrc="entry:17;61:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">systemoutput</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="9" xtrc="entry:18;62:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita">system output</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+    </refbody>
+</reference><reference class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="reference:1;3:43" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita" oid="utilities_domain_elements" id="unique_11">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">Utilities domain elements</title>
+    <prolog class="- topic/prolog " xtrc="prolog:1;5:13" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">
+        <author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">aashi</author><author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">aashi</author><author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">aashi</author>
+        <critdates class="- topic/critdates " xtrc="critdates:1;7:20" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">
+            <created class="- topic/created " date="2024-03-28" xtrc="created:1;8:41" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29" xtrc="revised:1;10:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30" xtrc="revised:2;12:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+        </critdates>
+    </prolog>
+    <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;15:14" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">
+        <section class="- topic/section " id="unique_11_Connect_42_section_hqy_vtc_x1c" xtrc="section:1;16:43" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">
+            <p class="- topic/p " xtrc="p:1;17:16" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">The elements in the utilities domain each have a specific purpose in defining image
+                map properties.</p>
+            <p class="- topic/p " xtrc="p:2;19:16" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">Note: Use &lt;dl&gt; to describe each of the following element and provide an
+                example.</p>
+        </section>
+        <section class="- topic/section " id="unique_11_Connect_42_section_onc_hz2_x1c" xtrc="section:2;22:43" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">
+            <table class="- topic/table " id="unique_11_Connect_42_table_lp5_rvc_x1c" xtrc="table:1;23:43" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">
+                <tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:1;24:34" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" xtrc="colspec:1;25:55" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" xtrc="colspec:2;26:55" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:1;27:28" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">
+                        <row class="- topic/row " xtrc="row:1;28:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:1;29:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">Element Name</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:2;30:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">Semantic Purpose</entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:1;33:28" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">
+                        <row class="- topic/row " xtrc="row:2;34:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:3;35:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">imagemap</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:4;36:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">client-side image map</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:3;38:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:5;39:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">area</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:6;40:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">hotspot area within an image map</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:4;42:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:7;43:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">coords</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:8;44:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">co-ordinates of a hotspot area within an image map</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:5;46:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:9;47:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">shape</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:10;48:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">shape of a hotspot area within an image map</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <imagemap class="+ topic/fig ut-d/imagemap " id="unique_11_Connect_42_imagemap_glb_fsk_x1c" xtrc="imagemap:1;53:49" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">
+                <image class="- topic/image " href="PicSmall2.jpg" id="unique_11_Connect_42_image_hlb_fsk_x1c" placement="inline" xtrc="image:1;54:72" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita"/>
+                <area class="+ topic/figgroup ut-d/area " xtrc="area:1;55:23" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">
+                    <coords class="+ topic/ph ut-d/coords " translate="no" xtrc="coords:1;56:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita"/>
+                    <xref class="- topic/xref " xtrc="xref:1;57:28" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita"><?ditaot usertext?></xref>
+                </area>
+                <area class="+ topic/figgroup ut-d/area " xtrc="area:2;59:23" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">
+                    <shape class="+ topic/keyword ut-d/shape " translate="no" xtrc="shape:1;60:28" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">rect</shape>
+                    <coords class="+ topic/ph ut-d/coords " translate="no" xtrc="coords:2;61:29" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">97, 28, 209, 138</coords>
+                    <xref class="- topic/xref " format="dita" href="#unique_12" xtrc="xref:2;62:78" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita" type="concept" ohref="../introduction_to_dita.dita"><?ditaot gentext?>Introduction to DITA</xref>
+                </area>
+                <area class="+ topic/figgroup ut-d/area " xtrc="area:3;64:23" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">
+                    <shape class="+ topic/keyword ut-d/shape " translate="no" xtrc="shape:2;65:28" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">rect</shape>
+                    <coords class="+ topic/ph ut-d/coords " translate="no" xtrc="coords:3;66:29" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">220, 28, 329, 137</coords>
+                    <xref class="- topic/xref " format="dita" href="#unique_13" xtrc="xref:3;67:72" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita" type="reference" ohref="../topic_elements.dita"><?ditaot gentext?>Topic Elements</xref>
+                </area>
+                <area class="+ topic/figgroup ut-d/area " xtrc="area:4;69:23" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">
+                    <shape class="+ topic/keyword ut-d/shape " translate="no" xtrc="shape:3;70:28" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">rect</shape>
+                    <coords class="+ topic/ph ut-d/coords " translate="no" xtrc="coords:4;71:29" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">98, 144, 210, 255</coords>
+                    <xref class="- topic/xref " format="dita" href="#unique_14" xtrc="xref:4;72:70" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita" type="reference" ohref="../map_elements.dita"><?ditaot gentext?>Map Elements</xref>
+                </area>
+            </imagemap>
+        </section>
+    </refbody>
+</reference><reference class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="reference:1;3:43" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita" oid="utilities_domain_elements" id="unique_11_ssol1">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">Utilities domain elements</title>
+    <prolog class="- topic/prolog " xtrc="prolog:1;5:13" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">
+        <author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">aashi</author><author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">aashi</author><author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">aashi</author>
+        <critdates class="- topic/critdates " xtrc="critdates:1;7:20" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">
+            <created class="- topic/created " date="2024-03-28" xtrc="created:1;8:41" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29" xtrc="revised:1;10:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30" xtrc="revised:2;12:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+        </critdates>
+    </prolog>
+    <refbody class="- topic/body        reference/refbody " xtrc="refbody:1;15:14" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">
+        <section class="- topic/section " id="unique_11_ssol1_Connect_42_section_hqy_vtc_x1c" xtrc="section:1;16:43" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">
+            <p class="- topic/p " xtrc="p:1;17:16" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">The elements in the utilities domain each have a specific purpose in defining image
+                map properties.</p>
+            <p class="- topic/p " xtrc="p:2;19:16" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">Note: Use &lt;dl&gt; to describe each of the following element and provide an
+                example.</p>
+        </section>
+        <section class="- topic/section " id="unique_11_ssol1_Connect_42_section_onc_hz2_x1c" xtrc="section:2;22:43" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">
+            <table class="- topic/table " id="unique_11_ssol1_Connect_42_table_lp5_rvc_x1c" xtrc="table:1;23:43" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">
+                <tgroup class="- topic/tgroup " cols="2" xtrc="tgroup:1;24:34" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" xtrc="colspec:1;25:55" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" xtrc="colspec:2;26:55" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita"/>
+                    <thead class="- topic/thead " xtrc="thead:1;27:28" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">
+                        <row class="- topic/row " xtrc="row:1;28:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:1;29:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">Element Name</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:2;30:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">Semantic Purpose</entry>
+                        </row>
+                    </thead>
+                    <tbody class="- topic/tbody " xtrc="tbody:1;33:28" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">
+                        <row class="- topic/row " xtrc="row:2;34:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:3;35:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">imagemap</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:4;36:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">client-side image map</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:3;38:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:5;39:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">area</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:6;40:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">hotspot area within an image map</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:4;42:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:7;43:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">coords</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:8;44:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">co-ordinates of a hotspot area within an image map</entry>
+                        </row>
+                        <row class="- topic/row " xtrc="row:5;46:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">
+                            <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:9;47:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">shape</entry>
+                            <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:10;48:36" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">shape of a hotspot area within an image map</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <imagemap class="+ topic/fig ut-d/imagemap " id="unique_11_ssol1_Connect_42_imagemap_glb_fsk_x1c" xtrc="imagemap:1;53:49" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">
+                <image class="- topic/image " href="PicSmall2.jpg" id="unique_11_ssol1_Connect_42_image_hlb_fsk_x1c" placement="inline" xtrc="image:1;54:72" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita"/>
+                <area class="+ topic/figgroup ut-d/area " xtrc="area:1;55:23" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">
+                    <coords class="+ topic/ph ut-d/coords " translate="no" xtrc="coords:1;56:30" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita"/>
+                    <xref class="- topic/xref " xtrc="xref:1;57:28" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita"><?ditaot usertext?></xref>
+                </area>
+                <area class="+ topic/figgroup ut-d/area " xtrc="area:2;59:23" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">
+                    <shape class="+ topic/keyword ut-d/shape " translate="no" xtrc="shape:1;60:28" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">rect</shape>
+                    <coords class="+ topic/ph ut-d/coords " translate="no" xtrc="coords:2;61:29" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">97, 28, 209, 138</coords>
+                    <xref class="- topic/xref " format="dita" href="#unique_12" xtrc="xref:2;62:78" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita" type="concept" ohref="../introduction_to_dita.dita"><?ditaot gentext?>Introduction to DITA</xref>
+                </area>
+                <area class="+ topic/figgroup ut-d/area " xtrc="area:3;64:23" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">
+                    <shape class="+ topic/keyword ut-d/shape " translate="no" xtrc="shape:2;65:28" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">rect</shape>
+                    <coords class="+ topic/ph ut-d/coords " translate="no" xtrc="coords:3;66:29" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">220, 28, 329, 137</coords>
+                    <xref class="- topic/xref " format="dita" href="#unique_13" xtrc="xref:3;67:72" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita" type="reference" ohref="../topic_elements.dita"><?ditaot gentext?>Topic Elements</xref>
+                </area>
+                <area class="+ topic/figgroup ut-d/area " xtrc="area:4;69:23" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">
+                    <shape class="+ topic/keyword ut-d/shape " translate="no" xtrc="shape:3;70:28" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">rect</shape>
+                    <coords class="+ topic/ph ut-d/coords " translate="no" xtrc="coords:4;71:29" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita">98, 144, 210, 255</coords>
+                    <xref class="- topic/xref " format="dita" href="#unique_14" xtrc="xref:4;72:70" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita" type="reference" ohref="../map_elements.dita"><?ditaot gentext?>Map Elements</xref>
+                </area>
+            </imagemap>
+        </section>
+    </refbody>
+</reference></concept></reference></map>

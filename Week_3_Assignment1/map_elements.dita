@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="map_elements">
+    <title>Map Elements</title>
+    <prolog>
+        <author type="creator">aashi</author>
+        <critdates>
+            <created date="2024-03-28"/>
+            <!--aashi-->
+            <revised modified="2024-03-29"/>
+        </critdates>
+    </prolog>
+    <refbody>
+        <example>
+            <p>The map elements are the elements used in ditamaps and bookmaps.</p>
+            <p>The map elements are a small set of elements, some of which have been specialised
+                into other elements for use in bookmaps.</p>
+            <p>The map elements include:</p>
+            <ul id="ul_e3c_25z_w1c">
+                <li>map</li>
+                <li>topicref</li>
+                <li>topicmeta</li>
+                <li>topicgroup</li>
+                <li>topichead</li>
+                <li>reltable</li>
+            </ul>
+        </example>
+    </refbody>
+</reference>

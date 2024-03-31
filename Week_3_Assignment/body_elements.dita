@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="body_elements">
+    <title>Body Elements</title>
+    <prolog>
+        <author type="creator">aashi</author>
+        <critdates>
+            <created date="2024-03-28"/>
+        </critdates>
+    </prolog>
+    <refbody>
+        <example>
+            <p>The simple block structures within the body of topics are categorized as the body
+                elements.</p>
+            <p>Body elements are the most common content authoring block elements, and include:</p>
+            <ul id="ul_fc5_55z_w1c">
+                <li>paragraph</li>
+                <li>list</li>
+                <li>phrase</li>
+                <li>figure</li>
+            </ul>
+        </example>
+    </refbody>
+</reference>

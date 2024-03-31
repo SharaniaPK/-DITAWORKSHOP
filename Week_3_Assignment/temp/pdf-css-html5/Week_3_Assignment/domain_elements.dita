@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\DITA Workshop\Week_3_Assignment\temp\pdf-css-html5\Week_3_Assignment?><?workdir-uri file:/C:/DITA%20Workshop/Week_3_Assignment/temp/pdf-css-html5/Week_3_Assignment/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Concept//EN?><?doctype-system concept.dtd?><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" class="- topic/topic concept/concept " ditaarch:DITAArchVersion="1.3" domains="(topic concept) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="domain_elements" specializations="@props/deliveryTarget" xtrc="concept:1;3:31" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">Domain Elements</title>
+    <prolog class="- topic/prolog " xtrc="prolog:1;5:13" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">
+        <author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">aashi</author><author class="- topic/author " type="creator" xtrc="author:1;6:32" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">aashi</author>
+        <critdates class="- topic/critdates " xtrc="critdates:1;7:20" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap">
+            <created class="- topic/created " date="2024-03-28" xtrc="created:1;8:41" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29" xtrc="revised:1;10:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30" xtrc="revised:2;12:45" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap"/>
+        </critdates>
+    </prolog>
+    <conbody class="- topic/body  concept/conbody " xtrc="conbody:1;11:14" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">
+        <p class="- topic/p " xtrc="p:1;12:12" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">The domain elements are comprised of a number of separate sets of elements that relate to
+            specific documentation fields.</p>
+        <p class="- topic/p " xtrc="p:2;14:12" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">Remembering that DITA started life within IBM as a tool for creating software and
+            hardware documentation, it shouldn't be a surprise to discover that DITA's base elements
+            reflect that background.</p>
+        <p class="- topic/p " xtrc="p:3;17:12" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">Elements that relate to a particular field (such as software) are called domain elements.
+            The domain elements within DITA are grouped into:</p>
+        <dl class="- topic/dl " id="dl_yz1_vxz_w1c" xtrc="dl:1;19:33" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">
+            <dlentry class="- topic/dlentry " xtrc="dlentry:1;20:22" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">
+                <dt class="- topic/dt " xtrc="dt:1;21:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">typographical elements</dt>
+                <dd class="- topic/dd " xtrc="dd:1;22:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">generic word-processor like elements used to highlight text</dd>
+            </dlentry>
+            <dlentry class="- topic/dlentry " xtrc="dlentry:2;24:22" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">
+                <dt class="- topic/dt " xtrc="dt:2;25:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">programming elements</dt>
+                <dd class="- topic/dd " xtrc="dd:2;26:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">terms and structures related to programming environments</dd>
+            </dlentry>
+            <dlentry class="- topic/dlentry " xtrc="dlentry:3;28:22" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">
+                <dt class="- topic/dt " xtrc="dt:3;29:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">software elements</dt>
+                <dd class="- topic/dd " xtrc="dd:3;30:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">terms and structures related to the operation of a software program</dd>
+            </dlentry>
+            <dlentry class="- topic/dlentry " xtrc="dlentry:4;32:22" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">
+                <dt class="- topic/dt " xtrc="dt:4;33:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">table elements</dt>
+                <dd class="- topic/dd " xtrc="dd:4;34:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">elements that relate to table structures</dd>
+            </dlentry>
+            <dlentry class="- topic/dlentry " xtrc="dlentry:5;36:22" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">
+                <dt class="- topic/dt " xtrc="dt:5;37:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">user interface elements</dt>
+                <dd class="- topic/dd " xtrc="dd:5;38:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">terms and structures related to a software user interface</dd>
+            </dlentry>
+            <dlentry class="- topic/dlentry " xtrc="dlentry:6;40:22" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">
+                <dt class="- topic/dt " xtrc="dt:6;41:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">utilities elements</dt>
+                <dd class="- topic/dd " xtrc="dd:6;42:21" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">elements that don't fit anywhere else!</dd>
+            </dlentry>
+        </dl>
+        <p class="- topic/p " xtrc="p:4;45:12" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">If you are writing a programmer's reference, you will mainly use elements in
+            theprogramming domain.</p>
+        <p class="- topic/p " xtrc="p:5;47:12" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">If you are writing a mobile phone user guide, you should avoid using programming domain
+            elements, and mainly use user interface domain elements.</p>
+        <p class="- topic/p " xtrc="p:6;49:12" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">The typographical domain elements are designed to be used only when <b class="+ topic/ph hi-d/b " xtrc="b:1;49:83" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/domain_elements.dita">no semantically-
+                appropriate elements are available</b> and a formatting effect is required. These
+            elements should therefore only be used as a last resort.</p>
+    </conbody>
+</concept>

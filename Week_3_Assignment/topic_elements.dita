@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="topic_elements">
+    <title>Topic Elements</title>
+    <prolog>
+        <author type="creator">aashi</author>
+        <critdates>
+            <created date="2024-03-28"/>
+            <!--aashi-->
+            <revised modified="2024-03-29"/>
+        </critdates>
+    </prolog>
+    <refbody>
+        <example>
+            <p>The topic elements are the basic structural building blocks of all information
+                types.</p>
+            <p>The topic elements are the main structural elements of topics. Some topic elements
+                are generic (that's inherited from the topic proto information type), while others
+                are specific to the concept, task or reference information types.</p>
+            <p>Examples of topic elements include:</p>
+            <ul id="ul_p2m_2tz_w1c">
+                <li>topic (and concept, task, reference)</li>
+                <li>titlealts</li>
+                <li>shortdesc</li>
+                <li>body (and refbody, conbody, taskbody)</li>
+                <li>section</li>
+                <li>example</li>
+                <li>related-links</li>
+            </ul>
+        </example>
+    </refbody>
+</reference>

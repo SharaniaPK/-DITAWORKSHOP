@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Author%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/dita_syntax_markup.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><topicmeta xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- map/topicmeta ">
+        <author class="- topic/author " type="creator">aashi</author>
+        <critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2024-03-28"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30"/>
+        </critdates>
+    </topicmeta><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title "><ph class="- topic/ph " keyref="name">DITA</ph>_Syntax_Markup</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title "><ph class="- topic/ph " keyref="name">DITA</ph>_Syntax_Markup</title>
+    
+    <topicmeta class="- map/topicmeta "/>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="introduction_to_dita"><resourceid appid="introduction_to_dita" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Introduction to <ph class="- topic/ph " keyref="name" xtrc="ph:1;4:47" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/introduction_to_dita.dita">DITA</ph></navtitle><?ditaot gentext?><author class="- topic/author " type="creator">aashi</author><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2024-03-28"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30"/>
+        </critdates></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_2" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="organisation_of_dita_elements"><resourceid appid="organisation_of_dita_elements" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Organisation of <ph class="- topic/ph " keyref="name" xtrc="ph:1;4:47" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/organisation_of_dita_elements.dita">DITA</ph> elements</navtitle><?ditaot gentext?><author class="- topic/author " type="creator">aashi</author><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2024-03-28"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30"/>
+        </critdates></topicmeta><topicref class="- map/topicref " href="#unique_3" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="topic_elements"><resourceid appid="topic_elements" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Topic Elements</navtitle><?ditaot gentext?><author class="- topic/author " type="creator">aashi</author><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2024-03-28"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30"/>
+        </critdates></topicmeta></topicref><topicref class="- map/topicref " href="#unique_4" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="map_elements"><resourceid appid="map_elements" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Map Elements</navtitle><?ditaot gentext?><author class="- topic/author " type="creator">aashi</author><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2024-03-28"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30"/>
+        </critdates></topicmeta></topicref><topicref class="- map/topicref " href="#unique_5" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="body_elements"><resourceid appid="body_elements" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Body Elements</navtitle><?ditaot gentext?><author class="- topic/author " type="creator">aashi</author><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2024-03-28"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30"/>
+        </critdates></topicmeta></topicref><topicref class="- map/topicref " href="#unique_6" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="prolog_elements"><resourceid appid="prolog_elements" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Prolog Elements</navtitle><?ditaot gentext?><author class="- topic/author " type="creator">aashi</author><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2024-03-28"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30"/>
+        </critdates></topicmeta></topicref><topicref class="- map/topicref " href="#unique_7" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="domain_elements"><resourceid appid="domain_elements" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Domain Elements</navtitle><?ditaot gentext?><author class="- topic/author " type="creator">aashi</author><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2024-03-28"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30"/>
+        </critdates></topicmeta><topicref class="- map/topicref " href="#unique_8" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="programming_domain_elements"><resourceid appid="programming_domain_elements" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Programming domain elements</navtitle><?ditaot gentext?><author class="- topic/author " type="creator">aashi</author><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2024-03-28"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30"/>
+        </critdates></topicmeta></topicref><topicref class="- map/topicref " href="#unique_9" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="user_interface_domain_elements_0"><resourceid appid="user_interface_domain_elements_0" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">User Interface domain elements</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author " type="creator">aashi</author><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2024-03-28"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30"/>
+        </critdates></topicmeta></topicref><topicref class="- map/topicref " href="#unique_10" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="software_domain_elements_0"><resourceid appid="software_domain_elements_0" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">Software domain elements</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/><author class="- topic/author " type="creator">aashi</author><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2024-03-28"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30"/>
+        </critdates></topicmeta></topicref><topicref class="- map/topicref " href="#unique_11" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="utilities_domain_elements"><resourceid appid="utilities_domain_elements" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">Utilities domain elements</navtitle><?ditaot gentext?><author class="- topic/author " type="creator">aashi</author><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2024-03-28"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30"/>
+        </critdates></topicmeta></topicref><topicref class="- map/topicref " href="#unique_11" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="utilities_domain_elements"><resourceid appid="utilities_domain_elements" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11_ssol1" class="- topic/navtitle ">Utilities domain elements</navtitle><?ditaot gentext?><author class="- topic/author " type="creator">aashi</author><author class="- topic/author " type="creator">aashi</author><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2024-03-28"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30"/>
+        </critdates></topicmeta></topicref></topicref></topicref>
+    
+</opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="introduction_to_dita" oid="introduction_to_dita" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Introduction to <ph class="- topic/ph " keyref="name">DITA</ph></ph></title>
+    <prolog class="- topic/prolog ">
+        <author class="- topic/author " type="creator">aashi</author><author class="- topic/author " type="creator">aashi</author>
+        <critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2024-03-28"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30"/>
+        </critdates>
+    </prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <section class="- topic/section " id="unique_1_Connect_42_section_gcr_ylz_w1c" nd:nd-id="section_gcr_ylz_w1c">
+            <p class="- topic/p ">The Darwin Information Typing Architecture (<ph class="- topic/ph " keyref="name">DITA</ph>) is an XML-based
+                architecture for authoring, producing, and delivering topic-oriented,
+                information-typed content that can be reused and single-sourced in a variety of
+                ways. While <ph class="- topic/ph " keyref="name">DITA</ph> historically has been driven by the
+                requirements of large-scale technical documentation authoring, management, and
+                delivery, it is a standard that is applicable to any kind of publication or
+                information that might be presented to readers, including interactive training and
+                educational materials, standards, reports, business documents, trade books, travel
+                and nature guides, and more.</p>
+            <p class="- topic/p "><ph class="- topic/ph " keyref="name">DITA</ph> is designed for creating new document types and
+                describing new information domains based on existing types and domains. The process
+                for creating new types and domains is called specialization. Specialization enables
+                the creation of specific, targeted XML grammars that can still use tools and design
+                rules that were developed for more general types and domains; this is similar to how
+                classes in an object-oriented system can inherit the methods of ancestor
+                classes.</p>
+            <p class="- topic/p ">Because <ph class="- topic/ph " keyref="name">DITA</ph> topics are conforming XML documents, they can be
+                readily viewed, edited, and validated using standard XML tools, although realizing
+                the full potential of <ph class="- topic/ph " keyref="name">DITA</ph> requires using <ph class="- topic/ph " keyref="name">DITA</ph>-aware tools.</p>
+        </section>
+    </conbody>
+</concept><reference break-before="true" is-chapter="true" class="- topic/topic       reference/reference " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="organisation_of_dita_elements" oid="organisation_of_dita_elements" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Organisation of <ph class="- topic/ph " keyref="name">DITA</ph> elements</ph></title>
+    <prolog class="- topic/prolog ">
+        <author class="- topic/author " type="creator">aashi</author><author class="- topic/author " type="creator">aashi</author>
+        <critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2024-03-28"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30"/>
+        </critdates>
+    </prolog>
+    <refbody class="- topic/body        reference/refbody ">
+        <example class="- topic/example ">
+            <p class="- topic/p ">Elements in <ph class="- topic/ph " keyref="name">DITA</ph> are grouped together into a number of categories for
+                organizational and comprehension purposes.</p>
+            <p class="- topic/p "><ph class="- topic/ph " keyref="name">DITA</ph> elements can be broadly categorized as follows:</p>
+            <ul class="- topic/ul " id="unique_2_Connect_42_ul_x1n_44z_w1c" nd:nd-id="ul_x1n_44z_w1c">
+                <li class="- topic/li ">Topic elements</li>
+                <li class="- topic/li ">Map elements</li>
+                <li class="- topic/li ">Body elements</li>
+                <li class="- topic/li ">Prolog elements</li>
+                <li class="- topic/li ">Domain elements</li>
+            </ul>
+            <p class="- topic/p ">In fact, this is how the <ph class="- topic/ph " keyref="name">DITA</ph> Language Reference groups <ph class="- topic/ph " keyref="name">DITA</ph> elements. This categorization of the various elements is partly
+                to aid understanding, and partly to make it technically easier for the schema files
+                (DTD and XSD) to be managed.</p>
+            <p class="- topic/p ">Elements used within topics can also be differently categorized as block or phrase
+                elements.</p>
+        </example>
+    </refbody>
+<reference class="- topic/topic       reference/reference " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="topic_elements" oid="topic_elements" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Topic Elements</ph></title>
+    <prolog class="- topic/prolog ">
+        <author class="- topic/author " type="creator">aashi</author><author class="- topic/author " type="creator">aashi</author>
+        <critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2024-03-28"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30"/>
+        </critdates>
+    </prolog>
+    <refbody class="- topic/body        reference/refbody ">
+        <example class="- topic/example ">
+            <p class="- topic/p ">The topic elements are the basic structural building blocks of all information
+                types.</p>
+            <p class="- topic/p ">The topic elements are the main structural elements of topics. Some topic elements
+                are generic (that's inherited from the topic proto information type), while others
+                are specific to the concept, task or reference information types.</p>
+            <p class="- topic/p ">Examples of topic elements include:</p>
+            <ul class="- topic/ul " id="unique_3_Connect_42_ul_p2m_2tz_w1c" nd:nd-id="ul_p2m_2tz_w1c">
+                <li class="- topic/li ">topic (and concept, task, reference)</li>
+                <li class="- topic/li ">titlealts</li>
+                <li class="- topic/li ">shortdesc</li>
+                <li class="- topic/li ">body (and refbody, conbody, taskbody)</li>
+                <li class="- topic/li ">section</li>
+                <li class="- topic/li ">example</li>
+                <li class="- topic/li ">related-links</li>
+            </ul>
+        </example>
+    </refbody>
+</reference><reference class="- topic/topic       reference/reference " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="map_elements" oid="map_elements" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Map Elements</ph></title>
+    <prolog class="- topic/prolog ">
+        <author class="- topic/author " type="creator">aashi</author><author class="- topic/author " type="creator">aashi</author>
+        <critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2024-03-28"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30"/>
+        </critdates>
+    </prolog>
+    <refbody class="- topic/body        reference/refbody ">
+        <example class="- topic/example ">
+            <p class="- topic/p ">The map elements are the elements used in ditamaps and bookmaps.</p>
+            <p class="- topic/p ">The map elements are a small set of elements, some of which have been specialised
+                into other elements for use in bookmaps.</p>
+            <p class="- topic/p ">The map elements include:</p>
+            <ul class="- topic/ul " id="unique_4_Connect_42_ul_e3c_25z_w1c" nd:nd-id="ul_e3c_25z_w1c">
+                <li class="- topic/li ">map</li>
+                <li class="- topic/li ">topicref</li>
+                <li class="- topic/li ">topicmeta</li>
+                <li class="- topic/li ">topicgroup</li>
+                <li class="- topic/li ">topichead</li>
+                <li class="- topic/li ">reltable</li>
+            </ul>
+        </example>
+    </refbody>
+</reference><reference class="- topic/topic       reference/reference " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="body_elements" oid="body_elements" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Body Elements</ph></title>
+    <prolog class="- topic/prolog ">
+        <author class="- topic/author " type="creator">aashi</author><author class="- topic/author " type="creator">aashi</author>
+        <critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2024-03-28"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30"/>
+        </critdates>
+    </prolog>
+    <refbody class="- topic/body        reference/refbody ">
+        <example class="- topic/example ">
+            <p class="- topic/p ">The simple block structures within the body of topics are categorized as the body
+                elements.</p>
+            <p class="- topic/p ">Body elements are the most common content authoring block elements, and include:</p>
+            <ul class="- topic/ul " id="unique_5_Connect_42_ul_fc5_55z_w1c" nd:nd-id="ul_fc5_55z_w1c">
+                <li class="- topic/li ">paragraph</li>
+                <li class="- topic/li ">list</li>
+                <li class="- topic/li ">phrase</li>
+                <li class="- topic/li ">figure</li>
+            </ul>
+        </example>
+    </refbody>
+</reference><reference class="- topic/topic       reference/reference " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="prolog_elements" oid="prolog_elements" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Prolog Elements</ph></title>
+    <prolog class="- topic/prolog ">
+        <author class="- topic/author " type="creator">aashi</author><author class="- topic/author " type="creator">aashi</author>
+        <critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2024-03-28"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30"/>
+        </critdates>
+    </prolog>
+    <refbody class="- topic/body        reference/refbody ">
+        <example class="- topic/example ">
+            <p class="- topic/p ">A topic's metadata is stored in a range of prolog elements.</p>
+            <p class="- topic/p ">The <ph class="- topic/ph " keyref="name">DITA</ph>prolog elements contain the main metadata for a topic
+                or collection.</p>
+            <p class="- topic/p ">The types of information recorded in the prolog include:</p>
+            <ul class="- topic/ul " id="unique_6_Connect_42_ul_rsx_3vz_w1c" nd:nd-id="ul_rsx_3vz_w1c">
+                <li class="- topic/li ">author</li>
+                <li class="- topic/li ">copyright information</li>
+                <li class="- topic/li ">critical tracking dates</li>
+                <li class="- topic/li ">permissions for use/management of the content</li>
+                <li class="- topic/li ">extensive metadata about the content of the document</li>
+            </ul>
+        </example>
+    </refbody>
+</reference><concept class="- topic/topic concept/concept " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="domain_elements" oid="domain_elements" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Domain Elements</ph></title>
+    <prolog class="- topic/prolog ">
+        <author class="- topic/author " type="creator">aashi</author><author class="- topic/author " type="creator">aashi</author>
+        <critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2024-03-28"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30"/>
+        </critdates>
+    </prolog>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">The domain elements are comprised of a number of separate sets of elements that relate to
+            specific documentation fields.</p>
+        <p class="- topic/p ">Remembering that DITA started life within IBM as a tool for creating software and
+            hardware documentation, it shouldn't be a surprise to discover that DITA's base elements
+            reflect that background.</p>
+        <p class="- topic/p ">Elements that relate to a particular field (such as software) are called domain elements.
+            The domain elements within DITA are grouped into:</p>
+        <dl class="- topic/dl " id="unique_7_Connect_42_dl_yz1_vxz_w1c" nd:nd-id="dl_yz1_vxz_w1c">
+            <dlentry class="- topic/dlentry ">
+                <dt class="- topic/dt ">typographical elements</dt>
+                <dd class="- topic/dd ">generic word-processor like elements used to highlight text</dd>
+            </dlentry>
+            <dlentry class="- topic/dlentry ">
+                <dt class="- topic/dt ">programming elements</dt>
+                <dd class="- topic/dd ">terms and structures related to programming environments</dd>
+            </dlentry>
+            <dlentry class="- topic/dlentry ">
+                <dt class="- topic/dt ">software elements</dt>
+                <dd class="- topic/dd ">terms and structures related to the operation of a software program</dd>
+            </dlentry>
+            <dlentry class="- topic/dlentry ">
+                <dt class="- topic/dt ">table elements</dt>
+                <dd class="- topic/dd ">elements that relate to table structures</dd>
+            </dlentry>
+            <dlentry class="- topic/dlentry ">
+                <dt class="- topic/dt ">user interface elements</dt>
+                <dd class="- topic/dd ">terms and structures related to a software user interface</dd>
+            </dlentry>
+            <dlentry class="- topic/dlentry ">
+                <dt class="- topic/dt ">utilities elements</dt>
+                <dd class="- topic/dd ">elements that don't fit anywhere else!</dd>
+            </dlentry>
+        </dl>
+        <p class="- topic/p ">If you are writing a programmer's reference, you will mainly use elements in
+            theprogramming domain.</p>
+        <p class="- topic/p ">If you are writing a mobile phone user guide, you should avoid using programming domain
+            elements, and mainly use user interface domain elements.</p>
+        <p class="- topic/p ">The typographical domain elements are designed to be used only when <b class="+ topic/ph hi-d/b ">no semantically-
+                appropriate elements are available</b> and a formatting effect is required. These
+            elements should therefore only be used as a last resort.</p>
+    </conbody>
+<reference class="- topic/topic       reference/reference " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="programming_domain_elements" oid="programming_domain_elements" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Programming domain elements</ph></title>
+    <prolog class="- topic/prolog ">
+        <author class="- topic/author " type="creator">aashi</author><author class="- topic/author " type="creator">aashi</author>
+        <critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2024-03-28"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30"/>
+        </critdates>
+    </prolog>
+    <refbody class="- topic/body        reference/refbody ">
+        <section class="- topic/section " id="unique_8_Connect_42_section_hsp_vzz_w1c" nd:nd-id="section_hsp_vzz_w1c">
+            <p class="- topic/p ">The elements in the programming domain each have a specific semantic purpose.</p>
+            <p class="- topic/p ">Note: Use <ph class="- topic/ph ">&lt;</ph>dl<ph class="- topic/ph ">&gt;</ph> to describe each of the following element and
+                provide an example.</p>
+        </section>
+        <section class="- topic/section " id="unique_8_Connect_42_section_pqc_yy2_x1c" nd:nd-id="section_pqc_yy2_x1c">
+            <table class="- topic/table " id="unique_8_Connect_42_table_ub2_qb1_x1c" nd:nd-id="table_ub2_qb1_x1c">
+                <tgroup class="- topic/tgroup " cols="2">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;22:69" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita" style="width:40.1606%;"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1.49*" xtrc="colspec:2;23:72" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/programming_domain_elements.dita" style="width:59.8394%;"/>
+                    <thead class="- topic/thead ">
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">Element Name</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">Semantic Purpose</entry></row>
+                    </thead>
+                    <tbody class="- topic/tbody ">
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">apiname</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">API name</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">codeblock</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">code block</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">codeph</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">code phrase</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">option</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">one of a set of options</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6">parmname</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6">parameter or argument</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7">parml</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7">parameter list</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8">plentry</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8">parameter list entry (within parml)</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="9">pt</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="9">parameter term (within plentry)</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="10">pd</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="10">parameter definition (within plentry) </entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="11">synph</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="11">syntax phrase</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="12">syntaxdiagram</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="12">syntax diagram</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="13">groupseq</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="13">group of syntactic units (used only for syntax diagram)</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="14">groupchoice</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="14">choice of a group of syntactic units (used only for syntax
+                                diagrams)</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="15">groupcomp</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="15">group of composite syntactic units (used only for syntax
+                                diagrams)</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="16">fragment</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="16">fragment of syntax (used only for syntax diagrams</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="17">fragref</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="17">cross-reference to a fragment of syntax</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="18">synblk</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="18">block of small pieces of syntax</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="19">synnote</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="19">footnote within syntax (syntax note)</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="20">synnoteref</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="20">cross-reference to a syntax note</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="21">kwd</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="21">syntax keyword (used only for syntax diagrams)</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="22">var</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="22">variable that a user must supply (used only for syntax
+                                diagrams)</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="23">oper</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="23">operator character (such as <ph class="- topic/ph ">+</ph>, <ph class="- topic/ph ">-</ph>, and
+                                    <ph class="- topic/ph ">=</ph>) within syntax</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="24">delim</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="24">delimiter character (such as<ph class="- topic/ph "> /</ph>, <ph class="- topic/ph ">|</ph>, and
+                                    <ph class="- topic/ph ">;</ph>) within syntax</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="25">sep</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="25">separator character within syntax</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="26">resep</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="26">separator character for repeated syntax elements</entry></row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+    </refbody>
+</reference><reference class="- topic/topic       reference/reference " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="user_interface_domain_elements_0" oid="user_interface_domain_elements_0" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">User Interface domain elements</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <prolog class="- topic/prolog ">
+        <author class="- topic/author " type="creator">aashi</author><author class="- topic/author " type="creator">aashi</author>
+        <critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2024-03-28"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30"/>
+        </critdates>
+    </prolog>
+    <refbody class="- topic/body        reference/refbody ">
+        <section class="- topic/section " id="unique_9_Connect_42_section_zfp_zzz_w1c" nd:nd-id="section_zfp_zzz_w1c">
+            <p class="- topic/p ">The elements in the user interface domain each have a specific semantic purpose.</p>
+            <p class="- topic/p ">Note: Use <ph class="- topic/ph ">&lt;</ph>dl<ph class="- topic/ph ">&gt;</ph> to describe each of the following element and
+                provide an example.</p>
+        </section>
+        <section class="- topic/section " id="unique_9_Connect_42_section_xtt_dz2_x1c" nd:nd-id="section_xtt_dz2_x1c">
+            <table class="- topic/table " id="unique_9_Connect_42_table_nfv_jsc_x1c" nd:nd-id="table_nfv_jsc_x1c">
+                <tgroup class="- topic/tgroup " cols="2">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" xtrc="colspec:1;23:55" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" xtrc="colspec:2;24:55" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/user_interface_domain_elements_0.dita"/>
+                    <thead class="- topic/thead ">
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">Element Name</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">Semantic Purpose</entry></row>
+                    </thead>
+                    <tbody class="- topic/tbody ">
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">uicontrol</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">user interface control</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">wintitle</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">window title</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">menucascade</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">menu cascade</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">shortcut</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">shortcut</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6">screen</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6">character (text only) screen</entry></row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+    </refbody>
+</reference><reference class="- topic/topic       reference/reference " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="software_domain_elements_0" oid="software_domain_elements_0" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Software domain elements</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <prolog class="- topic/prolog ">
+        <author class="- topic/author " type="creator">aashi</author><author class="- topic/author " type="creator">aashi</author>
+        <critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2024-03-28"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30"/>
+        </critdates>
+    </prolog>
+    <refbody class="- topic/body        reference/refbody ">
+        <section class="- topic/section " id="unique_10_Connect_42_section_dxx_h11_x1c" nd:nd-id="section_dxx_h11_x1c">
+            <p class="- topic/p ">The elements in the software domain each have a specific semantic purpose.</p>
+            <p class="- topic/p ">Note: Use <ph class="- topic/ph ">&lt;</ph>dl<ph class="- topic/ph ">&gt;</ph> to describe each of the following element and
+                provide an example.</p>
+        </section>
+        <section class="- topic/section " id="unique_10_Connect_42_section_z3l_fz2_x1c" nd:nd-id="section_z3l_fz2_x1c">
+            <table class="- topic/table " id="unique_10_Connect_42_table_ksl_j5c_x1c" nd:nd-id="table_ksl_j5c_x1c">
+                <tgroup class="- topic/tgroup " cols="2">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" xtrc="colspec:1;23:55" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" xtrc="colspec:2;24:55" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/software_domain_elements_0.dita"/>
+                    <thead class="- topic/thead ">
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">Element Name</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">Semantic Purpose</entry></row>
+                    </thead>
+                    <tbody class="- topic/tbody ">
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">msgph</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">message phrase</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">msgblock</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">message block</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">msgnum</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">message number</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">cmdname</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">command name</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6">varname</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6">variable (to be provided by user) name</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7">filepath</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7">file name or path, or URI</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8">userinput</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8">user input</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="9">systemoutput</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="9">system output</entry></row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </section>
+    </refbody>
+</reference><reference class="- topic/topic       reference/reference " id="unique_11" topicrefclass="- map/topicref " nd:nd-id="utilities_domain_elements" oid="utilities_domain_elements" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Utilities domain elements</ph></title>
+    <prolog class="- topic/prolog ">
+        <author class="- topic/author " type="creator">aashi</author><author class="- topic/author " type="creator">aashi</author><author class="- topic/author " type="creator">aashi</author>
+        <critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2024-03-28"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30"/>
+        </critdates>
+    </prolog>
+    <refbody class="- topic/body        reference/refbody ">
+        <section class="- topic/section " id="unique_11_Connect_42_section_hqy_vtc_x1c" nd:nd-id="section_hqy_vtc_x1c">
+            <p class="- topic/p ">The elements in the utilities domain each have a specific purpose in defining image
+                map properties.</p>
+            <p class="- topic/p ">Note: Use &lt;dl&gt; to describe each of the following element and provide an
+                example.</p>
+        </section>
+        <section class="- topic/section " id="unique_11_Connect_42_section_onc_hz2_x1c" nd:nd-id="section_onc_hz2_x1c">
+            <table class="- topic/table " id="unique_11_Connect_42_table_lp5_rvc_x1c" nd:nd-id="table_lp5_rvc_x1c">
+                <tgroup class="- topic/tgroup " cols="2">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" xtrc="colspec:1;25:55" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" xtrc="colspec:2;26:55" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita"/>
+                    <thead class="- topic/thead ">
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">Element Name</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">Semantic Purpose</entry></row>
+                    </thead>
+                    <tbody class="- topic/tbody ">
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">imagemap</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">client-side image map</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">area</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">hotspot area within an image map</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">coords</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">co-ordinates of a hotspot area within an image map</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">shape</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">shape of a hotspot area within an image map</entry></row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <imagemap class="+ topic/fig ut-d/imagemap " id="unique_11_Connect_42_imagemap_glb_fsk_x1c" nd:nd-id="imagemap_glb_fsk_x1c"><image class="- topic/image " dita-ot:image-width="854" dita-ot:image-height="568" href="file:/C:/DITA%20Workshop/PicSmall2.jpg" id="unique_11_Connect_42_image_hlb_fsk_x1c" nd:nd-id="image_hlb_fsk_x1c" placement="inline"/><area class="+ topic/figgroup ut-d/area ">
+                    <coords class="+ topic/ph ut-d/coords " translate="no"/>
+                    <xref class="- topic/xref "><?ditaot usertext?></xref>
+                </area><area class="+ topic/figgroup ut-d/area ">
+                    <shape class="+ topic/keyword ut-d/shape " translate="no">rect</shape>
+                    <coords class="+ topic/ph ut-d/coords " translate="no">97, 28, 209, 138</coords>
+                    <xref class="- topic/xref " format="dita" href="#unique_12" broken-link="true" type="concept"><?ditaot gentext?>Introduction to DITA</xref>
+                </area><area class="+ topic/figgroup ut-d/area ">
+                    <shape class="+ topic/keyword ut-d/shape " translate="no">rect</shape>
+                    <coords class="+ topic/ph ut-d/coords " translate="no">220, 28, 329, 137</coords>
+                    <xref class="- topic/xref " format="dita" href="#unique_13" broken-link="true" type="reference"><?ditaot gentext?>Topic Elements</xref>
+                </area><area class="+ topic/figgroup ut-d/area ">
+                    <shape class="+ topic/keyword ut-d/shape " translate="no">rect</shape>
+                    <coords class="+ topic/ph ut-d/coords " translate="no">98, 144, 210, 255</coords>
+                    <xref class="- topic/xref " format="dita" href="#unique_14" broken-link="true" type="reference"><?ditaot gentext?>Map Elements</xref>
+                </area></imagemap>
+        </section>
+    </refbody>
+</reference><reference class="- topic/topic       reference/reference " id="unique_11_ssol1" topicrefclass="- map/topicref " nd:nd-id="utilities_domain_elements" oid="utilities_domain_elements" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Utilities domain elements</ph></title>
+    <prolog class="- topic/prolog ">
+        <author class="- topic/author " type="creator">aashi</author><author class="- topic/author " type="creator">aashi</author><author class="- topic/author " type="creator">aashi</author>
+        <critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2024-03-28"/>
+            
+            <revised class="- topic/revised " modified="2024-03-29"/>
+            
+            <revised class="- topic/revised " modified="2024-03-30"/>
+        </critdates>
+    </prolog>
+    <refbody class="- topic/body        reference/refbody ">
+        <section class="- topic/section " id="unique_11_ssol1_Connect_42_section_hqy_vtc_x1c">
+            <p class="- topic/p ">The elements in the utilities domain each have a specific purpose in defining image
+                map properties.</p>
+            <p class="- topic/p ">Note: Use &lt;dl&gt; to describe each of the following element and provide an
+                example.</p>
+        </section>
+        <section class="- topic/section " id="unique_11_ssol1_Connect_42_section_onc_hz2_x1c">
+            <table class="- topic/table " id="unique_11_ssol1_Connect_42_table_lp5_rvc_x1c">
+                <tgroup class="- topic/tgroup " cols="2">
+                    <colspec class="- topic/colspec " colname="col1" colnum="1" xtrc="colspec:1;25:55" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita"/>
+                    <colspec class="- topic/colspec " colname="col2" colnum="2" xtrc="colspec:2;26:55" xtrf="file:/C:/DITA%20Workshop/Week_3_Assignment/utilities_domain_elements.dita"/>
+                    <thead class="- topic/thead ">
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">Element Name</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">Semantic Purpose</entry></row>
+                    </thead>
+                    <tbody class="- topic/tbody ">
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">imagemap</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">client-side image map</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">area</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">hotspot area within an image map</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">coords</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">co-ordinates of a hotspot area within an image map</entry></row>
+                        <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">shape</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">shape of a hotspot area within an image map</entry></row>
+                    </tbody>
+                </tgroup>
+            </table>
+            <imagemap class="+ topic/fig ut-d/imagemap " id="unique_11_ssol1_Connect_42_imagemap_glb_fsk_x1c"><image class="- topic/image " dita-ot:image-width="854" dita-ot:image-height="568" href="file:/C:/DITA%20Workshop/PicSmall2.jpg" id="unique_11_ssol1_Connect_42_image_hlb_fsk_x1c" placement="inline"/><area class="+ topic/figgroup ut-d/area ">
+                    <coords class="+ topic/ph ut-d/coords " translate="no"/>
+                    <xref class="- topic/xref "><?ditaot usertext?></xref>
+                </area><area class="+ topic/figgroup ut-d/area ">
+                    <shape class="+ topic/keyword ut-d/shape " translate="no">rect</shape>
+                    <coords class="+ topic/ph ut-d/coords " translate="no">97, 28, 209, 138</coords>
+                    <xref class="- topic/xref " format="dita" href="#unique_12" broken-link="true" type="concept"><?ditaot gentext?>Introduction to DITA</xref>
+                </area><area class="+ topic/figgroup ut-d/area ">
+                    <shape class="+ topic/keyword ut-d/shape " translate="no">rect</shape>
+                    <coords class="+ topic/ph ut-d/coords " translate="no">220, 28, 329, 137</coords>
+                    <xref class="- topic/xref " format="dita" href="#unique_13" broken-link="true" type="reference"><?ditaot gentext?>Topic Elements</xref>
+                </area><area class="+ topic/figgroup ut-d/area ">
+                    <shape class="+ topic/keyword ut-d/shape " translate="no">rect</shape>
+                    <coords class="+ topic/ph ut-d/coords " translate="no">98, 144, 210, 255</coords>
+                    <xref class="- topic/xref " format="dita" href="#unique_14" broken-link="true" type="reference"><?ditaot gentext?>Map Elements</xref>
+                </area></imagemap>
+        </section>
+    </refbody>
+</reference></concept></reference></map>

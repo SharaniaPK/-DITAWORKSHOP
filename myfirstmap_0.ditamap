@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>  MyFirstMap</title>
+    <topicgroup collection-type="sequence"/>
+    <topichead navtitle="PencilTypes">
+        <topicref href="penciltypes.dita"/>
+        <topicref href="AssignmentTask2.dita"/>
+    </topichead>
+    <topicref href="related_link_test.dita"/>
+    <topicref href="pencil_types.dita"/>
+</map>
